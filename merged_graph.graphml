@@ -1,0 +1,3736 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="PROJECT GUTENBERG">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Project Gutenberg is a digital library and organization dedicated to the free distribution of electronic works. It offers a large collection of eBooks, including notable titles such as "A Christmas Carol." The mission of Project Gutenberg is to promote free access to electronic works by sharing them in compliance with the terms of their agreement. The organization ensures that these works are available in formats readable by a wide variety of computers, from obsolete and old to middle-aged and new. This initiative is made possible through the efforts of hundreds of volunteers and donations from people in all walks of life.</data>
+      <data key="d2">0ddc17ea5e566006c000b4013f2181a5,2b5ecb7fba1301d1f3d307e194a6c435,aa8d2310a206001404282ddb3fd645aa,cd4234ed6caba8f15d09a2e3ee604b2a,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">22</data>
+      <data key="d4">2</data>
+      <data key="d5">15</data>
+      <data key="d6">0</data>
+      <data key="d7">d2b76838df8d4a08ac5ec3ece4c80c68</data>
+    </node>
+    <node id="CHARLES DICKENS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Charles Dickens is the author of "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+      <data key="d7">2116b3631b2e497bb4c5277c5090b930</data>
+    </node>
+    <node id="ARTHUR RACKHAM">
+      <data key="d0">PERSON</data>
+      <data key="d1">Arthur Rackham is the illustrator of "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">87c687dbad244e099677fd1a7561b5ce</data>
+    </node>
+    <node id="J. B. LIPPINCOTT COMPANY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">J. B. Lippincott Company is the original publisher of "A Christmas Carol" in Philadelphia and New York in 1915.</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">3</data>
+      <data key="d7">9068453f191d490ca26caf3262a5d9b0</data>
+    </node>
+    <node id="UNITED STATES">
+      <data key="d0">GEO</data>
+      <data key="d1">The United States is a country where nearly all individual works in the Project Gutenberg collection are in the public domain. It is also the country where the Project Gutenberg eBook of "A Christmas Carol" is available for use without restrictions. Additionally, the United States is mentioned in the context of securities and financial instruments. Furthermore, it is the country where the Project Gutenberg Literary Archive Foundation operates and complies with charity laws.</data>
+      <data key="d2">8435b078474636a989a8c22f5493e1b6,aa8d2310a206001404282ddb3fd645aa,cd4234ed6caba8f15d09a2e3ee604b2a,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">23</data>
+      <data key="d4">2</data>
+      <data key="d5">4</data>
+      <data key="d6">4</data>
+      <data key="d7">9db718dad4914e629a9bc3938dbb8e59</data>
+    </node>
+    <node id="PHILADELPHIA">
+      <data key="d0">GEO</data>
+      <data key="d1">Philadelphia is one of the cities where "A Christmas Carol" was originally published by J. B. Lippincott Company.</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">e459bd7be35848eb87a4f2f31f6a7836</data>
+    </node>
+    <node id="NEW YORK">
+      <data key="d0">GEO</data>
+      <data key="d1">New York is one of the cities where "A Christmas Carol" was originally published by J. B. Lippincott Company.</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">6</data>
+      <data key="d7">dee144fd3bd94b56b14d5deb4b831212</data>
+    </node>
+    <node id="A CHRISTMAS CAROL">
+      <data key="d0">EVENT</data>
+      <data key="d1">A Christmas Carol is a novella by Charles Dickens, first published in 1843, that tells the story of Ebenezer Scrooge's transformation after being visited by ghosts.</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">7</data>
+      <data key="d7">7fe68240931042c68fd48f61d9f8a6dd</data>
+    </node>
+    <node id="SUZANNE SHELL">
+      <data key="d0">PERSON</data>
+      <data key="d1">Suzanne Shell is one of the producers of the Project Gutenberg eBook of "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">e8025c80faa346448e34273321713e90</data>
+    </node>
+    <node id="JANET BLENKINSHIP">
+      <data key="d0">PERSON</data>
+      <data key="d1">Janet Blenkinship is one of the producers of the Project Gutenberg eBook of "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">9</data>
+      <data key="d7">73e773d6b24c430f988309ff02da3be4</data>
+    </node>
+    <node id="ONLINE DISTRIBUTED PROOFREADING TEAM">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Online Distributed Proofreading Team is a group that helped produce the Project Gutenberg eBook of "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">65e98a261cc84d89af54705c130c0132</data>
+    </node>
+    <node id="PETER CRATCHIT">
+      <data key="d0">PERSON</data>
+      <data key="d1">Peter Cratchit is a character in "A Christmas Carol" and the eldest son of Bob and Mrs. Cratchit. He is one of Bob Cratchit's children who is considering a job opportunity. Peter is proud of his attire and contributes to the family by helping with the meal preparations.</data>
+      <data key="d2">1bdf253855a115bcf51faa63d7b07e82,b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">9</data>
+      <data key="d6">11</data>
+      <data key="d7">aeafb494a0064a73baef99143e21b0e6</data>
+    </node>
+    <node id="TIM CRATCHIT">
+      <data key="d0">PERSON</data>
+      <data key="d1">Tim Cratchit, also known as Tiny Tim, is the youngest son of Bob Cratchit and a character in "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">12</data>
+      <data key="d7">246776cb17dd4ca89d9758b924d4802b</data>
+    </node>
+    <node id="MR. FEZZIWIG">
+      <data key="d0">PERSON</data>
+      <data key="d1">Mr. Fezziwig is a kind-hearted, jovial old merchant and a character in "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">89598e33c9fa4b7e86b260b242270d8a</data>
+    </node>
+    <node id="FRED">
+      <data key="d0">PERSON</data>
+      <data key="d1">Fred is Ebenezer Scrooge's nephew and a character in "A Christmas Carol." He is known for welcoming Scrooge warmly to his home.</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45,bc5fde5d1e00a3ecc1e548c8d24f1c1f,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">25</data>
+      <data key="d4">2</data>
+      <data key="d5">6</data>
+      <data key="d6">14</data>
+      <data key="d7">08da80bf27e74b37ab4b74fae1d1b533</data>
+    </node>
+    <node id="GHOST OF CHRISTMAS PAST">
+      <data key="d0">PERSON</data>
+      <data key="d1">The Ghost of Christmas Past is a supernatural entity and a character in "A Christmas Carol." This phantom shows Ebenezer Scrooge scenes from his past, prompting him to reflect on his life and the kindness he could have cultivated. As one of the spirits that visit Scrooge, the Ghost of Christmas Past plays a crucial role in reminding him of his earlier experiences and the potential for change.</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588,4cf4deeb7f61acb7b7db4ce0e57fb1e6,bf29edcb41403e5af43aa101072f4fdf,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">15</data>
+      <data key="d7">b642b6ba30d94c9c90c84e2902291f7f</data>
+    </node>
+    <node id="GHOST OF CHRISTMAS PRESENT">
+      <data key="d0">PERSON</data>
+      <data key="d1">The Ghost of Christmas Present is a jolly giant and a supernatural entity who appears in Charles Dickens' "A Christmas Carol." This spirit is characterized by a kind, generous, and hearty nature. The Ghost of Christmas Present visits Ebenezer Scrooge to show him the current joys and hardships of Christmas, highlighting the present events and interactions at various gatherings. Through these visits, the spirit aims to reveal the joy of Christmas and the struggles faced by people during the festive season.</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588,4cf4deeb7f61acb7b7db4ce0e57fb1e6,6c362d3f8d01c76d84443dcabf3f322a,77ae3762a0b062ca5350ea54a05450ae,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">16</data>
+      <data key="d7">ba9ee162baea46d398f671c11298d859</data>
+    </node>
+    <node id="GHOST OF CHRISTMAS YET TO COME">
+      <data key="d0">PERSON</data>
+      <data key="d1">The Ghost of Christmas Yet to Come is an apparition that appears in Charles Dickens' "A Christmas Carol." This solemn Phantom is one of the spirits that visits Ebenezer Scrooge, showing him the shadows of things which yet may happen. The Ghost of Christmas Yet to Come reveals to Scrooge the potential future consequences of his actions, serving as a crucial figure in Scrooge's journey towards redemption.</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588,98f3970b31dfa1d7391cdaa453d6ade7,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">fe0eb335326e48c38c2403aebf334b1b</data>
+    </node>
+    <node id="GHOST OF JACOB MARLEY">
+      <data key="d0">PERSON</data>
+      <data key="d1">The Ghost of Jacob Marley is a spectre of Scrooge's former partner in business and a character in "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">a2378c01508140018ba08d15b45b1b43</data>
+    </node>
+    <node id="JOE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Joe is a marine-store dealer and receiver of stolen goods, and a character in "A Christmas Carol." He is an old man who appraises and buys items from others.</data>
+      <data key="d2">bc606176c752984da6d202275ee8c7a6,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">19</data>
+      <data key="d7">4ac8a19d01cb4b818a38e12e3bc0432b</data>
+    </node>
+    <node id="EBENEZER SCROOGE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Ebenezer Scrooge is a grasping, covetous old man, the surviving partner of the firm of Scrooge and Marley, and the main character in "A Christmas Carol." He is a central character in the story, known for his miserly and cold-hearted nature.</data>
+      <data key="d2">8435b078474636a989a8c22f5493e1b6,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">20</data>
+      <data key="d7">42526274608b4da4a81478bc0e077380</data>
+    </node>
+    <node id="MR. TOPPER">
+      <data key="d0">PERSON</data>
+      <data key="d1">Mr. Topper is a bachelor and a character in "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d5">0</data>
+      <data key="d6">21</data>
+      <data key="d7">a332b9a0b0814ecaa59002e54712bd75</data>
+    </node>
+    <node id="DICK WILKINS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Dick Wilkins is a fellow apprentice of Scrooge's and a character in "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d5">0</data>
+      <data key="d6">22</data>
+      <data key="d7">7423ae02ea354ef9adc6432bd11502e7</data>
+    </node>
+    <node id="BELLE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Belle is a comely matron and an old sweetheart of Scrooge's in "A Christmas Carol".</data>
+      <data key="d2">d6583840046247f428a9f02738842a7c</data>
+      <data key="d5">0</data>
+      <data key="d6">23</data>
+      <data key="d7">adb1a724bf364bb1a76acee4af9c68ba</data>
+    </node>
+    <node id="CAROLINE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Caroline is a woman who feels relief upon hearing of a man's death, indicating he was a creditor. She is the wife of one of Scrooge's debtors and a character in "A Christmas Carol."</data>
+      <data key="d2">cd8a47ace09b9cee1e8b27b0689f2822,d6583840046247f428a9f02738842a7c,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d5">5</data>
+      <data key="d6">24</data>
+      <data key="d7">63c56f4b445145a88601e8f4e031320b</data>
+    </node>
+    <node id="MRS. CRATCHIT">
+      <data key="d0">PERSON</data>
+      <data key="d1">Mrs. Cratchit is a character in "A Christmas Carol" and the wife of Bob Cratchit. She is a resourceful and caring woman who makes the best of their limited means. Mrs. Cratchit is engaged in sewing and plays a significant role in the Cratchit family, preparing the gravy and pudding for their family dinner. She is also critical of Scrooge and expresses her disdain for him. Additionally, Mrs. Cratchit is mourning the death of Tiny Tim, reflecting her deep sense of loss and sorrow.</data>
+      <data key="d2">1bdf253855a115bcf51faa63d7b07e82,5d70b47bf7167b7586f47fcc4355a746,b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">18</data>
+      <data key="d6">25</data>
+      <data key="d7">2c7073ddf00b440e8a0a6c48c40f5b62</data>
+    </node>
+    <node id="BELINDA CRATCHIT">
+      <data key="d0">PERSON</data>
+      <data key="d1">Belinda Cratchit is a character in "A Christmas Carol" and the second daughter of Bob and Mrs. Cratchit. She assists with household chores, contributing to the family's daily life.</data>
+      <data key="d2">b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">8</data>
+      <data key="d6">26</data>
+      <data key="d7">2caaa86feffc4fa4a7312c723a2a7a3c</data>
+    </node>
+    <node id="MARTHA CRATCHIT">
+      <data key="d0">PERSON</data>
+      <data key="d1">Martha Cratchit is the eldest daughter of Bob and Mrs. Cratchit and a character in "A Christmas Carol." She works as an apprentice at a milliner's and is known for her hard work. Despite her busy schedule, she arrives late to the family gathering, demonstrating her dedication and commitment to her responsibilities.</data>
+      <data key="d2">1bdf253855a115bcf51faa63d7b07e82,b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">9</data>
+      <data key="d6">27</data>
+      <data key="d7">2e5af7ac27d744099add58110ef7d951</data>
+    </node>
+    <node id="MRS. DILBER">
+      <data key="d0">PERSON</data>
+      <data key="d1">Mrs. Dilber is a laundress and a character in "A Christmas Carol." She is a woman who brought items to Joe for appraisal and sale, and she enters Old Joe's shop with a heavy bundle.</data>
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792,bc606176c752984da6d202275ee8c7a6,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">28</data>
+      <data key="d7">2fd61a0a99264b14af790e1e4f176a97</data>
+    </node>
+    <node id="FAN">
+      <data key="d0">PERSON</data>
+      <data key="d1">Fan is Scrooge's younger sister who comes to bring him home from school. She is also a character in "A Christmas Carol."</data>
+      <data key="d2">ce95e4fc6ee410973c040fc628dce155,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">29</data>
+      <data key="d7">fc2e0eb509104baea59ed6ab6cbba53e</data>
+    </node>
+    <node id="MRS. FEZZIWIG">
+      <data key="d0">PERSON</data>
+      <data key="d1">Mrs. Fezziwig is the wife of Mr. Fezziwig and a character in "A Christmas Carol." She is described as a worthy partner in dancing and entertaining guests at the domestic ball.</data>
+      <data key="d2">bf29edcb41403e5af43aa101072f4fdf,d6583840046247f428a9f02738842a7c</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">30</data>
+      <data key="d7">74fd93985a084048b03bf3e6154808e6</data>
+    </node>
+    <node id="BOB CRATCHIT">
+      <data key="d0" />
+      <data key="d1">Bob Cratchit is an employee of Scrooge and a kind-hearted man who works hard to support his family. He is the father of several children, including Tiny Tim. Despite his poverty and the struggles his family faces, Bob remains compassionate and optimistic. He is known for toasting to Scrooge's health, even though Scrooge has many flaws. Bob Cratchit is also depicted as mourning the death of his child, Tiny Tim, in some narratives. Throughout his story, he receives a raise and support from Scrooge, who also promises him a turkey and assistance for his struggling family. Bob Cratchit is a central figure in the Cratchit family, often seen taking Tiny Tim beside him at the table and proposing a toast.</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45,1bdf253855a115bcf51faa63d7b07e82,2b5ecb7fba1301d1f3d307e194a6c435,5d70b47bf7167b7586f47fcc4355a746,6c362d3f8d01c76d84443dcabf3f322a,b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">21</data>
+      <data key="d6">31</data>
+      <data key="d7">546d9b39af874dccad7cef90796df135</data>
+    </node>
+    <node id="SCROOGE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Scrooge is the central character in the narrative, known for his miserly and uncharitable nature, particularly during the Christmas season. Initially, he is a wealthy, stingy, and unfeeling man who despises Christmas and is the subject of much discussion and criticism. Scrooge is deeply skeptical and disbelieving of the supernatural events happening around him, which include a series of ghostly visitations and strange occurrences in his house.
+
+Throughout the story, Scrooge is guided by various spirits who show him scenes of Christmas celebrations, desolate places, and his own past, present, and future. He witnesses scenes related to death and tenderness, explores dark and obscure parts of town with the Phantom, and reflects on his past experiences and interactions with others, including his sister and the Ghost. He is particularly affected by the scene of Fezziwig's ball, reflecting on the happiness Fezziwig brought to others, and is horrified by the actions of Joe and the others.
+
+Scrooge also shows concern for Tiny Tim's future, which marks the beginning of his transformation. He undergoes significant emotional turmoil as he reflects on his past and the impact of his actions. Ultimately, Scrooge experiences a profound transformation, becoming generous and kind-hearted. He is surprised by the laughter of his nephew and finds himself in a bright room with the Spirit, symbolizing his newfound joy and generosity. By the end of the story, Scrooge has become a man who is generous, kind, and deeply changed by the visions shown to him by the spirits.</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45,080d8e696ff38c653ca90fa086415e74,0e2b719e4c97d0d8bfeb2a53f7638eb6,0f9b4e5a7cfc0c3c89a8898a45383588,1bdf253855a115bcf51faa63d7b07e82,1cb66ea16e5e4f2816f0e188d3acc792,2b5ecb7fba1301d1f3d307e194a6c435,4cf4deeb7f61acb7b7db4ce0e57fb1e6,5d70b47bf7167b7586f47fcc4355a746,6c362d3f8d01c76d84443dcabf3f322a,759315fa84c14e81f84fc71c73746184,77ae3762a0b062ca5350ea54a05450ae,8435b078474636a989a8c22f5493e1b6,98f3970b31dfa1d7391cdaa453d6ade7,999c9887098d1a25dc3b42a8da7ddc8c,bc5fde5d1e00a3ecc1e548c8d24f1c1f,bc606176c752984da6d202275ee8c7a6,bf29edcb41403e5af43aa101072f4fdf,cd8a47ace09b9cee1e8b27b0689f2822,ce95e4fc6ee410973c040fc628dce155,d453d198afec5b284ff36024780b088c,e8d4072836ac08145edc2fa8c15ea2c2,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">62</data>
+      <data key="d6">32</data>
+      <data key="d7">7a0d6e1087904ece8efcc0f3c62bc8de</data>
+    </node>
+    <node id="SCROOGE'S NEPHEW">
+      <data key="d0">PERSON</data>
+      <data key="d1">Scrooge's nephew is a cheerful and good-natured person who pities Scrooge and invites him to join their celebrations every year. He is a kind-hearted man who loves Christmas and consistently tries to invite Scrooge to celebrate with him. Known for his hearty laughter, Scrooge's nephew often speaks about Scrooge's attitude towards Christmas, reflecting his own positive and festive spirit.</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74,4cf4deeb7f61acb7b7db4ce0e57fb1e6,bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d3">24</data>
+      <data key="d4">2</data>
+      <data key="d5">7</data>
+      <data key="d6">33</data>
+      <data key="d7">7f72faf2d87345a788ceb54e8aad027d</data>
+    </node>
+    <node id="CLERK">
+      <data key="d0">PERSON</data>
+      <data key="d1">The clerk works for Scrooge and is sympathetic towards Scrooge's nephew's views on Christmas</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d3">24</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">34</data>
+      <data key="d7">4e1de03d3daf4203b2c576c0fe0560c5</data>
+    </node>
+    <node id="MARLEY">
+      <data key="d0">PERSON</data>
+      <data key="d1">Marley is Scrooge's former business partner who has passed away. He was a business partner to Scrooge in life and has been dead for seven years. Marley is now a ghost who appears to Scrooge, vividly remembered by him. In his spectral form, Marley is burdened with chains made of cash-boxes, keys, padlocks, ledgers, deeds, and heavy purses.</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74,759315fa84c14e81f84fc71c73746184,77ae3762a0b062ca5350ea54a05450ae,e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">35</data>
+      <data key="d7">1d0fc04380874f5ea4a33dbaf2c3c3bc</data>
+    </node>
+    <node id="SCROOGE AND MARLEY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Scrooge and Marley is the counting-house where Scrooge works, representing the business partnership between Scrooge and Marley.</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74,6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">36</data>
+      <data key="d7">61c33e78996f4607b67c8febbb63f686</data>
+    </node>
+    <node id="PORTLY GENTLEMEN">
+      <data key="d0">PERSON</data>
+      <data key="d1">Two gentlemen who visit Scrooge's office to ask for charitable donations</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">37</data>
+      <data key="d7">1129817428284da1beb36f27ba9d8611</data>
+    </node>
+    <node id="CHRISTMAS">
+      <data key="d0">EVENT</data>
+      <data key="d1">CHRISTMAS is a holiday celebrated on December 25th, which is central to the story and the visions shown to Scrooge. It is a festive season associated with laughter, good-humor, and various gatherings. The events and reflections of the text take place during this holiday, which is cherished by Scrooge's nephew but despised by Scrooge himself. The Cratchit family celebrates Christmas with a special dinner, and it is a significant holiday being celebrated by various groups of people in the text.</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74,0e2b719e4c97d0d8bfeb2a53f7638eb6,2b5ecb7fba1301d1f3d307e194a6c435,4cf4deeb7f61acb7b7db4ce0e57fb1e6,5d70b47bf7167b7586f47fcc4355a746,77ae3762a0b062ca5350ea54a05450ae,98f3970b31dfa1d7391cdaa453d6ade7,999c9887098d1a25dc3b42a8da7ddc8c,bc5fde5d1e00a3ecc1e548c8d24f1c1f,ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d3">24</data>
+      <data key="d4">2</data>
+      <data key="d5">18</data>
+      <data key="d6">38</data>
+      <data key="d7">28a4d0a8a6494f168836a69635fa0398</data>
+    </node>
+    <node id="PARLIAMENT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A legislative body that Scrooge's nephew is suggested to join due to his powerful speaking skills</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d3">24</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">39</data>
+      <data key="d7">6b8c224d96044125a9c9f8708a299c79</data>
+    </node>
+    <node id="BEDLAM">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A mental institution that Scrooge mentions in a derogatory manner</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">40</data>
+      <data key="d7">9994e7ee6e6a4640b8502438bf2a6ce5</data>
+    </node>
+    <node id="NEW YEAR">
+      <data key="d0">EVENT</data>
+      <data key="d1">A holiday that follows Christmas, which Scrooge's nephew also wishes to celebrate</data>
+      <data key="d2">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d3">24</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">fbe5f0b64cd74e529da8cb5cec71f3bc</data>
+    </node>
+    <node id="ST. DUNSTAN">
+      <data key="d0">PERSON</data>
+      <data key="d1">St. Dunstan is referenced as a figure who could have used the cold weather to punish the Evil Spirit</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d5">0</data>
+      <data key="d6">42</data>
+      <data key="d7">740b8f1029394cfc8c9f9bf332572bc3</data>
+    </node>
+    <node id="LORD MAYOR">
+      <data key="d0">PERSON</data>
+      <data key="d1">The Lord Mayor is a figure who oversees the Mansion House and orders his staff to keep Christmas in a grand manner</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">03b12cdf748e43f28d14048af5900a51</data>
+    </node>
+    <node id="MANSION HOUSE">
+      <data key="d0">GEO</data>
+      <data key="d1">The Mansion House is the residence of the Lord Mayor where Christmas is celebrated with grandeur</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">23c78861328145579f44cb28cfbe1863</data>
+    </node>
+    <node id="UNION WORKHOUSES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Union workhouses are institutions mentioned by Scrooge as places where the poor can go</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">45</data>
+      <data key="d7">4c1782699ffd4945b5f00319e45e40d8</data>
+    </node>
+    <node id="TREADMILL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Treadmill is an institution mentioned by Scrooge as being in full operation</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">310077114d7d4a1c825acf3f2a41adda</data>
+    </node>
+    <node id="POOR LAW">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Poor Law is a system mentioned by Scrooge that is in full vigour</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">47</data>
+      <data key="d7">2ebc43b7bc3344aaaffe02ced54795bb</data>
+    </node>
+    <node id="POOR">
+      <data key="d0">PERSON</data>
+      <data key="d1">The poor are the individuals who are suffering greatly and in need of common necessaries and comforts</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">e08d3920e2b349c8a0e20b4003ae485b</data>
+    </node>
+    <node id="LONDON">
+      <data key="d0">GEO</data>
+      <data key="d1">The city where the events are taking place, characterized by fog and cold weather</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">49</data>
+      <data key="d7">e2a9b104f3314b2b991e884583b61d5e</data>
+    </node>
+    <node id="CHURCH">
+      <data key="d0">GEO</data>
+      <data key="d1">The CHURCH is characterized by its ancient tower, which houses a gruff old bell that strikes the hours and quarters. It is also notable as the place where Bob Cratchit and Tiny Tim attended service before returning home.</data>
+      <data key="d2">0e2b719e4c97d0d8bfeb2a53f7638eb6,b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">50</data>
+      <data key="d7">0a50f1e79b874e3f9121c232617cb944</data>
+    </node>
+    <node id="GENTLEMAN">
+      <data key="d0" />
+      <data key="d1">The gentleman is a character who interacts with Scrooge and is surprised by his generosity.</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45,0e2b719e4c97d0d8bfeb2a53f7638eb6,6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">51</data>
+      <data key="d7">b2298735fbf84245bac74f50b2e1f821</data>
+    </node>
+    <node id="DUTCH MERCHANT">
+      <data key="d0">PERSON</data>
+      <data key="d1">The Dutch merchant is the person who built the old fireplace in Scrooge's house</data>
+      <data key="d2">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ab0cfc365f7047528e489f8948f2429e</data>
+    </node>
+    <node id="PHARAOH'S DAUGHTERS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Figures depicted on the Dutch tiles in Scrooge's fireplace</data>
+      <data key="d2">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d5">0</data>
+      <data key="d6">53</data>
+      <data key="d7">a4a6b45ff03141d4a6f9ae6cd4507da7</data>
+    </node>
+    <node id="QUEENS OF SHEBA">
+      <data key="d0">PERSON</data>
+      <data key="d1">Figures depicted on the Dutch tiles in Scrooge's fireplace</data>
+      <data key="d2">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d5">0</data>
+      <data key="d6">54</data>
+      <data key="d7">f918a328c8c5493791bb10952ce4c3a8</data>
+    </node>
+    <node id="ANGELIC MESSENGERS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Figures depicted on the Dutch tiles in Scrooge's fireplace</data>
+      <data key="d2">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d5">0</data>
+      <data key="d6">55</data>
+      <data key="d7">27bf1caba8a94f0e8164a900898b0156</data>
+    </node>
+    <node id="ABRAHAMS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Figures depicted on the Dutch tiles in Scrooge's fireplace</data>
+      <data key="d2">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d5">0</data>
+      <data key="d6">56</data>
+      <data key="d7">943136e2dde14fd9a78e653533950e1e</data>
+    </node>
+    <node id="BELSHAZZARS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Figures depicted on the Dutch tiles in Scrooge's fireplace</data>
+      <data key="d2">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d5">0</data>
+      <data key="d6">57</data>
+      <data key="d7">cc3dc88cdcea46a199935f8c8ad8d00d</data>
+    </node>
+    <node id="APOSTLES">
+      <data key="d0">PERSON</data>
+      <data key="d1">Figures depicted on the Dutch tiles in Scrooge's fireplace</data>
+      <data key="d2">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d5">0</data>
+      <data key="d6">58</data>
+      <data key="d7">e4f276b9ed874b0aa8d0d7427ce43bd9</data>
+    </node>
+    <node id="WINE-MERCHANT">
+      <data key="d0">PERSON</data>
+      <data key="d1">The wine-merchant owns the cellar below Scrooge's house</data>
+      <data key="d2">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">3d885a3f5e5340baa8254f085b186f83</data>
+    </node>
+    <node id="JACOB MARLEY">
+      <data key="d0">PERSON</data>
+      <data key="d1">Jacob Marley is the ghost of Scrooge's former business partner, who was known as Marley's Ghost. In life, he was Scrooge's partner, and in death, his memory haunts Scrooge, reminding him of his past actions. As a ghost, Jacob Marley warns Scrooge of the upcoming visits by spirits, predicting the arrival of these Spirits to help guide Scrooge towards redemption.</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588,4cf4deeb7f61acb7b7db4ce0e57fb1e6,98f3970b31dfa1d7391cdaa453d6ade7,e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">953efe8216bf4406abbe929e8349a6ff</data>
+    </node>
+    <node id="MARLEY'S GHOST">
+      <data key="d0">EVENT</data>
+      <data key="d1">Marley's Ghost is a supernatural entity that previously visited Scrooge, causing him great fear and disbelief. During this supernatural event, Marley's Ghost warned Scrooge of future visitations.</data>
+      <data key="d2">8435b078474636a989a8c22f5493e1b6,e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">b6b8aac2109440228ef02e994c7b02b5</data>
+    </node>
+    <node id="HAUNTED HOUSES">
+      <data key="d0">GEO</data>
+      <data key="d1">Locations that are believed to be inhabited by ghosts, often described as having supernatural occurrences such as dragging chains</data>
+      <data key="d2">e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">4c92e2c6d6424b928da272bfd47a1c1a</data>
+    </node>
+    <node id="CELLAR">
+      <data key="d0">GEO</data>
+      <data key="d1">A part of the house where the supernatural noises are first heard by Scrooge</data>
+      <data key="d2">e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">63</data>
+      <data key="d7">57a3a3091e6a45b4a0a4885dfc03541e</data>
+    </node>
+    <node id="FIREPLACE">
+      <data key="d0">GEO</data>
+      <data key="d1">The location where Marley's ghost sits down opposite Scrooge during their conversation</data>
+      <data key="d2">e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">64</data>
+      <data key="d7">92424658a0da46e4b8fdbcf62b39b1be</data>
+    </node>
+    <node id="CHAIR">
+      <data key="d0">GEO</data>
+      <data key="d1">The object that Scrooge holds onto tightly when Marley's ghost raises a frightful cry and shakes its chain</data>
+      <data key="d2">e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">9ca4aa92854b4a9c9741cabeeda650ea</data>
+    </node>
+    <node id="GHOST">
+      <data key="d0">PERSON</data>
+      <data key="d1">The Ghost is a supernatural entity that appears to Scrooge, described as a strange figure with both childlike and old man features. This spirit guides Scrooge through various scenes, including his past memories, present situations, and potential future events. The Ghost prompts Scrooge to reflect on his life by showing him scenes from his past and informing him about Tiny Tim's potential fate. Additionally, the Ghost rebukes Scrooge for his past behavior, encouraging him to change his ways.</data>
+      <data key="d2">1bdf253855a115bcf51faa63d7b07e82,5d70b47bf7167b7586f47fcc4355a746,8435b078474636a989a8c22f5493e1b6,98f3970b31dfa1d7391cdaa453d6ade7,999c9887098d1a25dc3b42a8da7ddc8c,bf29edcb41403e5af43aa101072f4fdf,ce95e4fc6ee410973c040fc628dce155,d453d198afec5b284ff36024780b088c,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">66</data>
+      <data key="d7">d51f27394f0f456c95f9e1c0f273b9eb</data>
+    </node>
+    <node id="BED">
+      <data key="d0">GEO</data>
+      <data key="d1">The bed in which Scrooge is lying when he wakes up and experiences the events</data>
+      <data key="d2">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">c030cf28a5c8436a9660a6f41348f0aa</data>
+    </node>
+    <node id="CHAMBER">
+      <data key="d0">GEO</data>
+      <data key="d1">The room where Scrooge is staying and experiencing the supernatural events</data>
+      <data key="d2">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">993edb8b083d455d8315d1cab22f5689</data>
+    </node>
+    <node id="DRESSING-GOWN">
+      <data key="d0">GEO</data>
+      <data key="d1">The dressing-gown Scrooge wears when he rubs the frost off the window</data>
+      <data key="d2">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">fb2624cab22448a6bc0ac21e3e9a3ba3</data>
+    </node>
+    <node id="FIRST OF EXCHANGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">A financial document mentioned by Scrooge, related to his business dealings</data>
+      <data key="d2">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">fb0dd03a169740c2a58c6e77d8c40912</data>
+    </node>
+    <node id="VISITATION">
+      <data key="d0">EVENT</data>
+      <data key="d1">The supernatural event warned by Marley's Ghost, expected to occur when the bell tolls one</data>
+      <data key="d2">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">71</data>
+      <data key="d7">3798bef6c6e3411796aab1177c76dac7</data>
+    </node>
+    <node id="SPIRIT">
+      <data key="d0">PERSON</data>
+      <data key="d1">The SPIRIT is a supernatural being that plays a significant role in guiding Scrooge through various visions and symbolic representations. Often referred to as the Ghost, the Spirit shows Scrooge scenes from his past, present, and future. This ghostly figure stands by Scrooge's side, sometimes smiling approvingly at Fred, and is likely the Ghost of Christmas Present who blesses the Cratchit household with his torch. The Spirit is a constant presence, guiding Scrooge and helping him understand the consequences of his actions.</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588,1bdf253855a115bcf51faa63d7b07e82,8435b078474636a989a8c22f5493e1b6,98f3970b31dfa1d7391cdaa453d6ade7,999c9887098d1a25dc3b42a8da7ddc8c,b4dec8fbe9f2a2c6a79d09c9484d15ae,bc5fde5d1e00a3ecc1e548c8d24f1c1f,d453d198afec5b284ff36024780b088c,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">13</data>
+      <data key="d6">72</data>
+      <data key="d7">9a8291b5d4914e9793aa0088058cf017</data>
+    </node>
+    <node id="NEIGHBOURING CHURCH">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">ab0da8752694427a8db263cd6680477b</data>
+    </node>
+    <node id="SCHOOLMASTER">
+      <data key="d0">PERSON</data>
+      <data key="d1">The schoolmaster is the person in charge of the school where Scrooge was a student</data>
+      <data key="d2">ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">74</data>
+      <data key="d7">5c14671da7d043d1b2da1517c8dc6367</data>
+    </node>
+    <node id="FEZZIWIG">
+      <data key="d0">PERSON</data>
+      <data key="d1">Fezziwig is an old gentleman who was Scrooge's employer during his apprenticeship. He is an older man who is enthusiastic and skilled at dancing. Fezziwig hosts a domestic ball where he and his wife dance and entertain guests.</data>
+      <data key="d2">bf29edcb41403e5af43aa101072f4fdf,ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">75</data>
+      <data key="d7">7852650f2fde4544a2451d6465cb0cb6</data>
+    </node>
+    <node id="CITY">
+      <data key="d0">GEO</data>
+      <data key="d1">The city where Scrooge and the Spirit find themselves is a bustling and busy place, filled with shadowy passengers and constant activity. It is also the city where Scrooge lives and ultimately becomes known as a good man.</data>
+      <data key="d2">2b5ecb7fba1301d1f3d307e194a6c435,98f3970b31dfa1d7391cdaa453d6ade7,ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">76</data>
+      <data key="d7">3706b2f763a44b49bb06271e245e7806</data>
+    </node>
+    <node id="WAREHOUSE">
+      <data key="d0">GEO</data>
+      <data key="d1">The warehouse where Scrooge was apprenticed and where Fezziwig worked</data>
+      <data key="d2">ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">77</data>
+      <data key="d7">5fabed92fa4f428d930d4848ce15126a</data>
+    </node>
+    <node id="NEPHEW">
+      <data key="d0" />
+      <data key="d1">NEPHEW: Fred, who is Scrooge's nephew, welcomes him to his home.</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45,ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">78</data>
+      <data key="d7">5cc8a01b62604a0585120421e59bc6dd</data>
+    </node>
+    <node id="DICK">
+      <data key="d0">PERSON</data>
+      <data key="d1">Dick is one of the apprentices who praises Fezziwig for his kindness and generosity</data>
+      <data key="d2">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">79</data>
+      <data key="d7">2cba92f7f5954007afddab21a46676e1</data>
+    </node>
+    <node id="GIRL IN MOURNING DRESS">
+      <data key="d0">PERSON</data>
+      <data key="d1">The girl in the mourning dress is a fair young girl who speaks to Scrooge about how his pursuit of wealth has displaced her in his affections</data>
+      <data key="d2">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">80</data>
+      <data key="d7">516be54a9f5741b8810f8c7331d4fecb</data>
+    </node>
+    <node id="APPRENTICES">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">81</data>
+      <data key="d7">e0171c3c7e794c39bb572a7ab23ff6d4</data>
+    </node>
+    <node id="GIRL">
+      <data key="d0">PERSON</data>
+      <data key="d1">The girl is a character who was once in a relationship with Scrooge and is now a comely matron. Additionally, she is the girl who answers the door at Fred's house and shows Scrooge upstairs.</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45,d453d198afec5b284ff36024780b088c</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">82</data>
+      <data key="d7">55f31f5d372f4d5db8afee01428f8197</data>
+    </node>
+    <node id="MATRON">
+      <data key="d0">PERSON</data>
+      <data key="d1">The matron is the same girl from Scrooge's past, now older and with children</data>
+      <data key="d2">d453d198afec5b284ff36024780b088c</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">83</data>
+      <data key="d7">3c04bbde760e40f9b5e6eaffa029f8f5</data>
+    </node>
+    <node id="MISTLETOE">
+      <data key="d0">GEO</data>
+      <data key="d1">Mistletoe is a type of plant with crisp leaves that reflect light, used to decorate the room</data>
+      <data key="d2">77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">84</data>
+      <data key="d7">5bb9d4afa80341f098c9209c3cece076</data>
+    </node>
+    <node id="IVY">
+      <data key="d0">GEO</data>
+      <data key="d1">Ivy is a type of plant with crisp leaves that reflect light, used to decorate the room</data>
+      <data key="d2">77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">85</data>
+      <data key="d7">48c6cce773d3468dbe1e366a13389e54</data>
+    </node>
+    <node id="PLENTY'S HORN">
+      <data key="d0">EVENT</data>
+      <data key="d1">Plenty's Horn is a symbol of abundance, represented by the glowing torch held by the Ghost of Christmas Present</data>
+      <data key="d2">77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">86</data>
+      <data key="d7">bb69ba62564e4bbfafd7a8c51ffee296</data>
+    </node>
+    <node id="HOLLY">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">87</data>
+      <data key="d7">a9b400f396a6436b8a10d36992090686</data>
+    </node>
+    <node id="TINY TIM">
+      <data key="d0">PERSON</data>
+      <data key="d1">Tiny Tim is the youngest son of Bob and Mrs. Cratchit, a character in the Cratchit family who is physically disabled and uses a crutch. He is frail and ill, with an uncertain future, and is dearly loved by his family, especially his father, Bob Cratchit. Tiny Tim's condition and his comparison to the size of the turkey highlight his delicate state. Despite his initial grim prognosis, Tiny Tim is ultimately saved from death and is treated as a second son by Ebenezer Scrooge, reflecting the transformative impact of Scrooge's newfound generosity and care.</data>
+      <data key="d2">1bdf253855a115bcf51faa63d7b07e82,2b5ecb7fba1301d1f3d307e194a6c435,5d70b47bf7167b7586f47fcc4355a746,6c362d3f8d01c76d84443dcabf3f322a,b4dec8fbe9f2a2c6a79d09c9484d15ae,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">18</data>
+      <data key="d6">88</data>
+      <data key="d7">381bc273af8744929cd908459cf7b899</data>
+    </node>
+    <node id="CHRISTMAS DAY">
+      <data key="d0">EVENT</data>
+      <data key="d1">Christmas Day is the holiday being celebrated by the Cratchit family and others. It is the specific day being remembered and celebrated by the characters in the text. Christmas Day is also the occasion that Scrooge wakes up to after his transformative experience with the spirits. The Cratchit family marks this festive day with a special meal and gathering, highlighting the significance of Christmas Day in the narrative.</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588,1bdf253855a115bcf51faa63d7b07e82,6c362d3f8d01c76d84443dcabf3f322a,b4dec8fbe9f2a2c6a79d09c9484d15ae,bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">89</data>
+      <data key="d7">60e17fa9b7be4c4b958fb6d7d328068b</data>
+    </node>
+    <node id="MASTER PETER CRATCHIT">
+      <data key="d0">PERSON</data>
+      <data key="d1">Peter Cratchit, referred to as Master Peter, is the eldest son of Bob and Mrs. Cratchit, who helps with meal preparations</data>
+      <data key="d2">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d5">0</data>
+      <data key="d6">90</data>
+      <data key="d7">127f275e499647fb81e6ec7e50b0e95e</data>
+    </node>
+    <node id="TWO YOUNG CRATCHITS">
+      <data key="d0">PERSON</data>
+      <data key="d1">The two youngest children of Bob and Mrs. Cratchit, a boy and a girl, who are excited about the Christmas meal</data>
+      <data key="d2">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">91</data>
+      <data key="d7">42dc2c6323b2405c99e82477a7022e6d</data>
+    </node>
+    <node id="CHRISTMAS PRESENT">
+      <data key="d0">EVENT</data>
+      <data key="d1">The current Christmas being celebrated by the Cratchit family</data>
+      <data key="d2">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">92</data>
+      <data key="d7">c6c922b31fb44b52a34228c2a3546e9f</data>
+    </node>
+    <node id="CRATCHIT'S DWELLING">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">8</data>
+      <data key="d6">93</data>
+      <data key="d7">7abcf94dc6b94abcaece052a9bbf7a78</data>
+    </node>
+    <node id="MASTER PETER">
+      <data key="d0">PERSON</data>
+      <data key="d1">Master Peter is a member of the Cratchit family who mashed the potatoes with incredible vigour</data>
+      <data key="d2">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">94</data>
+      <data key="d7">6dd0830489064437b0fb01c4aad4928a</data>
+    </node>
+    <node id="MISS BELINDA">
+      <data key="d0">PERSON</data>
+      <data key="d1">Miss Belinda is a member of the Cratchit family who sweetened the apple sauce and changed the plates</data>
+      <data key="d2">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">95</data>
+      <data key="d7">ebe29e2b87684ded8ca5bdcd0ba21ca7</data>
+    </node>
+    <node id="MARTHA">
+      <data key="d0">PERSON</data>
+      <data key="d1">Martha is a member of the Cratchit family who dusted the hot plates</data>
+      <data key="d2">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">96</data>
+      <data key="d7">5ff6c956ac714cd889f1f05079adba1c</data>
+    </node>
+    <node id="DINNER">
+      <data key="d0">EVENT</data>
+      <data key="d1">The dinner is a special meal prepared and enjoyed by the Cratchit family during Christmas</data>
+      <data key="d2">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">8</data>
+      <data key="d6">97</data>
+      <data key="d7">773813615dea40fc9af1d23640042a08</data>
+    </node>
+    <node id="CRATCHIT FAMILY">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">98</data>
+      <data key="d7">7981a58c302d401db9cb0529221c8db2</data>
+    </node>
+    <node id="FUTURE">
+      <data key="d0">EVENT</data>
+      <data key="d1">FUTURE is a time period referenced by the Ghost, indicating what might happen if things remain unchanged. It is also one of the time periods that Scrooge vows to honor and learn from.</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588,1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">99</data>
+      <data key="d7">172f9f29ea0f4a4f93a000feb228cf3a</data>
+    </node>
+    <node id="FEAST">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Feast is a celebration mentioned by Bob Cratchit in honor of Scrooge</data>
+      <data key="d2">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">100</data>
+      <data key="d7">26ad2c4c978d4c9e84270523f7397b6b</data>
+    </node>
+    <node id="MOOR">
+      <data key="d0">GEO</data>
+      <data key="d1">A bleak and desert moor where miners live and labor in the bowels of the earth</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">2</data>
+      <data key="d6">101</data>
+      <data key="d7">8d256e6cd0804a14ad30e06bae65b16d</data>
+    </node>
+    <node id="LIGHTHOUSE">
+      <data key="d0">GEO</data>
+      <data key="d1">A solitary lighthouse built upon a dismal reef of sunken rocks, some league or so from shore</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">2</data>
+      <data key="d6">102</data>
+      <data key="d7">2d5592bdb4fd40c0b81cf90d4af17052</data>
+    </node>
+    <node id="SHIP">
+      <data key="d0">GEO</data>
+      <data key="d1">A ship far away from any shore where the crew is celebrating Christmas</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">2</data>
+      <data key="d6">103</data>
+      <data key="d7">6adf864413f846788bb3b1ac70903d5c</data>
+    </node>
+    <node id="MINERS">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">1</data>
+      <data key="d6">104</data>
+      <data key="d7">797becfe2ceb441d9451d3ce32ef5eb5</data>
+    </node>
+    <node id="SEA">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">2</data>
+      <data key="d6">105</data>
+      <data key="d7">6f6c22f3f55a49bdae3c88dc1f19dd23</data>
+    </node>
+    <node id="HUT">
+      <data key="d0">GEO</data>
+      <data key="d1">A hut on the moor where a cheerful company is assembled around a glowing fire</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">3</data>
+      <data key="d6">106</data>
+      <data key="d7">d0326d83eba141d99986c6e51f296cf3</data>
+    </node>
+    <node id="OLD MAN">
+      <data key="d0">PERSON</data>
+      <data key="d1">An old man singing a Christmas song to his family in the hut on the moor</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">2</data>
+      <data key="d6">107</data>
+      <data key="d7">a60ae012d2e346139685120d1923f725</data>
+    </node>
+    <node id="LAMPLIGHTER">
+      <data key="d0">PERSON</data>
+      <data key="d1">A person who lights the lamps in the street and is dressed to spend the evening somewhere</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">108</data>
+      <data key="d7">fbab2132a1d54f9da7d90a7337f4d43a</data>
+    </node>
+    <node id="FAMILY">
+      <data key="d0">PERSON</data>
+      <data key="d1">The family of the old man, including children, grandchildren, and another generation, assembled in the hut on the moor</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">2</data>
+      <data key="d6">109</data>
+      <data key="d7">d517f21b2f844d2580399bf19ef090b4</data>
+    </node>
+    <node id="TWO MEN">
+      <data key="d0">PERSON</data>
+      <data key="d1">Two men who watch the light in the lighthouse and celebrate Christmas together</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">1</data>
+      <data key="d6">110</data>
+      <data key="d7">56bffcaa9b6442c980a98770aa5dd217</data>
+    </node>
+    <node id="CREW">
+      <data key="d0">PERSON</data>
+      <data key="d1">The crew of the ship, including the helmsman, look-out, and officers, who are celebrating Christmas</data>
+      <data key="d2">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d5">1</data>
+      <data key="d6">111</data>
+      <data key="d7">3832d5d658c240e4b50d9b368dc0da39</data>
+    </node>
+    <node id="SCROOGE'S NIECE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Scrooge's niece is a musical person who plays the harp and participates in the games at the gathering. She is married to Scrooge's nephew, is very pretty, and expresses her opinions about Scrooge's wealth and behavior.</data>
+      <data key="d2">4cf4deeb7f61acb7b7db4ce0e57fb1e6,bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d3">25</data>
+      <data key="d4">2</data>
+      <data key="d5">6</data>
+      <data key="d6">112</data>
+      <data key="d7">ad407b28830042c582ff197bbc910e8e</data>
+    </node>
+    <node id="TOPPER">
+      <data key="d0">PERSON</data>
+      <data key="d1">Topper is a bachelor who attends Fred's party, where he is known for his musical talent and playful behavior during games. He has his eye on one of Scrooge's niece's sisters and often comments on the subject of housekeepers.</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45,4cf4deeb7f61acb7b7db4ce0e57fb1e6,bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">7</data>
+      <data key="d6">113</data>
+      <data key="d7">1a6c5b4f3f854e7998a5c13e423c73d6</data>
+    </node>
+    <node id="SCROOGE'S NIECE'S SISTER">
+      <data key="d0">PERSON</data>
+      <data key="d1">Scrooge's niece's sister is the plump one with the lace tucker who blushes when Topper speaks</data>
+      <data key="d2">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">114</data>
+      <data key="d7">3a6943c6c83149fa9c9154ed9a7d05c5</data>
+    </node>
+    <node id="SCROOGE'S NIECE'S SISTERS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Scrooge's niece's sisters are present at the gathering and express their opinions about Scrooge</data>
+      <data key="d2">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d3">24</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">115</data>
+      <data key="d7">d99d7725979644ecbdde55b238518eb2</data>
+    </node>
+    <node id="SCROOGE'S NIECE'S SISTER WITH THE LACE TUCKER">
+      <data key="d0">PERSON</data>
+      <data key="d1">One of Scrooge's niece's sisters, who is plump and blushes when Topper speaks</data>
+      <data key="d2">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">116</data>
+      <data key="d7">4a0975c7399349aaa2f8c151400211d0</data>
+    </node>
+    <node id="SCROOGE'S NIECE'S SISTER WITH THE ROSES">
+      <data key="d0">PERSON</data>
+      <data key="d1">One of Scrooge's niece's sisters, who is not the one with the lace tucker</data>
+      <data key="d2">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d3">24</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">117</data>
+      <data key="d7">59d2052d105749dbb33d78c4b7fb5f7a</data>
+    </node>
+    <node id="BLIND MAN'S-BUFF">
+      <data key="d0">EVENT</data>
+      <data key="d1">Blind man's-buff is a game played at the gathering, involving one person being blindfolded and trying to catch others</data>
+      <data key="d2">4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d3">24</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">118</data>
+      <data key="d7">17f626d7fc2d46578534972fce206ae9</data>
+    </node>
+    <node id="FORFEITS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Forfeits is a game played at the gathering where participants perform tasks or answer questions</data>
+      <data key="d2">4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d3">25</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">119</data>
+      <data key="d7">bc2b9180067b4f74a77ab7f588c629d5</data>
+    </node>
+    <node id="HOW, WHEN, AND WHERE">
+      <data key="d0">EVENT</data>
+      <data key="d1">How, When, and Where is a game played at the gathering, involving questions and answers</data>
+      <data key="d2">4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d3">25</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">120</data>
+      <data key="d7">1881d4873cc54599851792f0925c58f3</data>
+    </node>
+    <node id="PLUMP SISTER">
+      <data key="d0" />
+      <data key="d1">PLUMP SISTER is another guest at Fred's party.</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45,4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">121</data>
+      <data key="d7">d2cb974474a94070b194092ae82bdf11</data>
+    </node>
+    <node id="IGNORANCE">
+      <data key="d0">PERSON</data>
+      <data key="d1">A symbolic boy representing ignorance, shown to Scrooge by the Spirit</data>
+      <data key="d2">98f3970b31dfa1d7391cdaa453d6ade7</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">122</data>
+      <data key="d7">6a92d69dfa624c03a3b684be75f755fc</data>
+    </node>
+    <node id="WANT">
+      <data key="d0">PERSON</data>
+      <data key="d1">A symbolic girl representing want, shown to Scrooge by the Spirit</data>
+      <data key="d2">98f3970b31dfa1d7391cdaa453d6ade7</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">123</data>
+      <data key="d7">2fd8638e9ebf4298b0106f29fd787b63</data>
+    </node>
+    <node id="PHANTOM">
+      <data key="d0">PERSON</data>
+      <data key="d1">PHANTOM is a solemn, ghostly figure that represents the Ghost of Christmas Yet to Come. This spectral entity guides Scrooge through various scenes and visions, providing glimpses of what the future holds. Throughout these encounters, Scrooge often glances towards the Phantom, who plays a crucial role in his journey of self-discovery and transformation.</data>
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792,98f3970b31dfa1d7391cdaa453d6ade7,bc606176c752984da6d202275ee8c7a6,cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">124</data>
+      <data key="d7">b1d43e2606244ca4b35a059d60700c9e</data>
+    </node>
+    <node id="OLD JOE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Old Joe is a grey-haired rascal who runs a shop dealing in old and discarded items</data>
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">125</data>
+      <data key="d7">8ebfdd9e591945a290e1f22248751284</data>
+    </node>
+    <node id="LAUNDRESS">
+      <data key="d0">PERSON</data>
+      <data key="d1">The laundress is another woman who enters Old Joe's shop, similarly laden with items</data>
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">126</data>
+      <data key="d7">4d8c01f85fb24e5ea25f80438050bd90</data>
+    </node>
+    <node id="UNDERTAKER'S MAN">
+      <data key="d0">PERSON</data>
+      <data key="d1">The undertaker's man is a man in faded black who follows the two women into Old Joe's shop</data>
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">127</data>
+      <data key="d7">39e57f5ab5094acfbca2974e348dfcd4</data>
+    </node>
+    <node id="TOWN">
+      <data key="d0">GEO</data>
+      <data key="d1">The town is an obscure area with a bad reputation, which is visited by Scrooge and the Phantom. It is also the location where the events are taking place and where a man has died.</data>
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792,cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">128</data>
+      <data key="d7">018fbd6872024e1bbc50cef9c88c4a57</data>
+    </node>
+    <node id="SHOP">
+      <data key="d0">GEO</data>
+      <data key="d1">A low-browed, beetling shop where Old Joe deals in old and discarded items</data>
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">129</data>
+      <data key="d7">87999f78f53e495ea60e33901a755e53</data>
+    </node>
+    <node id="DEAD MAN">
+      <data key="d0">PERSON</data>
+      <data key="d1">The dead man is referred to by the characters as someone who has passed away and whose belongings are being discussed</data>
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">130</data>
+      <data key="d7">1e87d0e27e7b45379dc5d0506b995867</data>
+    </node>
+    <node id="CHARWOMAN">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">131</data>
+      <data key="d7">f125dca86f0049e4beb62113c41a664b</data>
+    </node>
+    <node id="UNHAPPY MAN">
+      <data key="d0">PERSON</data>
+      <data key="d1">The deceased man whose belongings were taken and sold by Joe and others</data>
+      <data key="d2">bc606176c752984da6d202275ee8c7a6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">132</data>
+      <data key="d7">22ec794abd324be190b583777b0ea85c</data>
+    </node>
+    <node id="WOMAN">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bc606176c752984da6d202275ee8c7a6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">133</data>
+      <data key="d7">fb66738231ff48119e8bc43db037b287</data>
+    </node>
+    <node id="CAROLINE'S HUSBAND">
+      <data key="d0">PERSON</data>
+      <data key="d1">Caroline's husband is a young man who brings the news of the creditor's death</data>
+      <data key="d2">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d5">2</data>
+      <data key="d6">134</data>
+      <data key="d7">23c809410a944282a3f3844473f3a10e</data>
+    </node>
+    <node id="DEATH">
+      <data key="d0">EVENT</data>
+      <data key="d1">The death of a man who was a creditor, causing mixed emotions among those who owed him money</data>
+      <data key="d2">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d5">2</data>
+      <data key="d6">135</data>
+      <data key="d7">4ef78e2951e44cc3bccffc7b41054adf</data>
+    </node>
+    <node id="CHILDREN">
+      <data key="d0">PERSON</data>
+      <data key="d1">The children of the mother who are playing and unaware of the gravity of the situation</data>
+      <data key="d2">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d5">2</data>
+      <data key="d6">136</data>
+      <data key="d7">19b2e0c4aefe4850a7657e506e0e0749</data>
+    </node>
+    <node id="MOTHER">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d5">2</data>
+      <data key="d6">137</data>
+      <data key="d7">7c3e4ddc08ea4346972c5482a98f4c53</data>
+    </node>
+    <node id="PETER">
+      <data key="d0">PERSON</data>
+      <data key="d1">Peter is one of Bob Cratchit's children who is seen reading a book</data>
+      <data key="d2">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">138</data>
+      <data key="d7">1508872e59364d9aacc28766ecdb4d27</data>
+    </node>
+    <node id="MR. SCROOGE'S NEPHEW">
+      <data key="d0">PERSON</data>
+      <data key="d1">Mr. Scrooge's nephew is a kind gentleman who showed extraordinary kindness to Bob Cratchit</data>
+      <data key="d2">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">19</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">139</data>
+      <data key="d7">40deddb1fd22467db5a81dcb0bb5c59e</data>
+    </node>
+    <node id="CRATCHIT'S HOUSE">
+      <data key="d0">GEO</data>
+      <data key="d1">The house where Bob Cratchit and his family live</data>
+      <data key="d2">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">140</data>
+      <data key="d7">f61a73cb358d4e90b84db389e398242e</data>
+    </node>
+    <node id="MR. SCROOGE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Mr. Scrooge is a character who is being guided by the Ghost to witness various scenes</data>
+      <data key="d2">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d3">19</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">141</data>
+      <data key="d7">5eb5364623a344eeaf148f3a89d8cb2d</data>
+    </node>
+    <node id="MERCILESS CREDITOR">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d5">1</data>
+      <data key="d6">142</data>
+      <data key="d7">585ada99f0c3493582b8ca4c50d49139</data>
+    </node>
+    <node id="PAST">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Past is one of the time periods that Scrooge vows to honor and learn from</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">143</data>
+      <data key="d7">f9f6a6755f16404caeaf474153e024ae</data>
+    </node>
+    <node id="PRESENT">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Present is one of the time periods that Scrooge vows to honor and learn from</data>
+      <data key="d2">0f9b4e5a7cfc0c3c89a8898a45383588</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">144</data>
+      <data key="d7">63600b2a91fa441bb4be079c9cafc611</data>
+    </node>
+    <node id="CAMDEN TOWN">
+      <data key="d0">GEO</data>
+      <data key="d1">Camden Town is the location where Scrooge intends to send the turkey</data>
+      <data key="d2">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">145</data>
+      <data key="d7">3211c5b09bcf431dadee4bcf395797c6</data>
+    </node>
+    <node id="PORTLY GENTLEMAN">
+      <data key="d0">PERSON</data>
+      <data key="d1">The portly gentleman is a character who visited Scrooge's counting-house to ask for donations</data>
+      <data key="d2">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">146</data>
+      <data key="d7">e4269baac62441439b18f9f2c9be4a49</data>
+    </node>
+    <node id="BOY">
+      <data key="d0">PERSON</data>
+      <data key="d1">The boy is a character who interacts with Scrooge and is asked to buy the turkey</data>
+      <data key="d2">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">147</data>
+      <data key="d7">3156218017c549ba860e9523ecd05c65</data>
+    </node>
+    <node id="JOE MILLER">
+      <data key="d0">PERSON</data>
+      <data key="d1">Joe Miller is mentioned by Scrooge in a humorous context about sending the turkey</data>
+      <data key="d2">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">148</data>
+      <data key="d7">2b0d031a76124db38a9b730ac2eac528</data>
+    </node>
+    <node id="STREET-DOOR">
+      <data key="d0">GEO</data>
+      <data key="d1">The street-door is the location where Scrooge waits for the poulterer's man to arrive with the turkey</data>
+      <data key="d2">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">149</data>
+      <data key="d7">8dbb80c458834f899b9d6ebbd42f9998</data>
+    </node>
+    <node id="POULTERER'S">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">150</data>
+      <data key="d7">de6765ade5f940689fd8ccb7fcd4197c</data>
+    </node>
+    <node id="NIECE">
+      <data key="d0">PERSON</data>
+      <data key="d1">Fred's wife, who is surprised by Scrooge's visit</data>
+      <data key="d2">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">151</data>
+      <data key="d7">59ac2a0957bc4d0ca437c6c396c9eaa5</data>
+    </node>
+    <node id="SPIRITS">
+      <data key="d0">PERSON</data>
+      <data key="d1">The Spirits are supernatural beings that visit Scrooge and lead to his transformation</data>
+      <data key="d2">2b5ecb7fba1301d1f3d307e194a6c435</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">152</data>
+      <data key="d7">faa6ef9020364156bbee864e56fc318f</data>
+    </node>
+    <node id="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Project Gutenberg Literary Archive Foundation (PGLAF) is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax-exempt status by the Internal Revenue Service. Established in 2001, the foundation was created to ensure a secure and permanent future for Project Gutenberg and future generations. PGLAF owns a compilation copyright in the collection of Project Gutenberg&#8482; electronic works, manages the Project Gutenberg trademark, and handles royalty payments and permissions.</data>
+      <data key="d2">0ddc17ea5e566006c000b4013f2181a5,aa8d2310a206001404282ddb3fd645aa,cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d3">23</data>
+      <data key="d4">2</data>
+      <data key="d5">8</data>
+      <data key="d6">153</data>
+      <data key="d7">974d6d23f66745a1b0ce4bc42b359101</data>
+    </node>
+    <node id="COPYRIGHT HOLDER">
+      <data key="d0">PERSON</data>
+      <data key="d1">The individual or entity that holds the copyright for a specific work</data>
+      <data key="d2">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d3">23</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">154</data>
+      <data key="d7">415c7e0282fe402ea17fe2e5266f8453</data>
+    </node>
+    <node id="PROJECT GUTENBERG&#8482; TRADEMARK">
+      <data key="d0">EVENT</data>
+      <data key="d1">The trademark associated with Project Gutenberg&#8482; works</data>
+      <data key="d2">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d3">22</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">155</data>
+      <data key="d7">8d975bb1857e4e509934d913f8811c25</data>
+    </node>
+    <node id="PROJECT GUTENBERG LICENSE">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d3">23</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">156</data>
+      <data key="d7">0ec183d6c45c45b69e240c395a594a3d</data>
+    </node>
+    <node id="U.S.">
+      <data key="d0">GEO</data>
+      <data key="d1">The United States, where copyright law is applicable to the works in the Project Gutenberg collection</data>
+      <data key="d2">0ddc17ea5e566006c000b4013f2181a5</data>
+      <data key="d3">22</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">157</data>
+      <data key="d7">a5159733a0524ca9a4a4db8c13c969f7</data>
+    </node>
+    <node id="PROJECT GUTENBERG VOLUNTEERS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Individuals who contribute to the identification, copyright research, transcription, and proofreading of works for Project Gutenberg</data>
+      <data key="d2">0ddc17ea5e566006c000b4013f2181a5</data>
+      <data key="d3">22</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">158</data>
+      <data key="d7">73182fadeeb94857af12b750d2d02a10</data>
+    </node>
+    <node id="PROJECT GUTENBERG EMPLOYEES">
+      <data key="d0">PERSON</data>
+      <data key="d1">Employees who work on identifying, researching, transcribing, and proofreading works for Project Gutenberg</data>
+      <data key="d2">0ddc17ea5e566006c000b4013f2181a5</data>
+      <data key="d3">22</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">159</data>
+      <data key="d7">9dbabd4dcd6043628f31995637b5043a</data>
+    </node>
+    <node id="MICHAEL S. HART">
+      <data key="d0">PERSON</data>
+      <data key="d1">Professor Michael S. Hart was the originator of the Project Gutenberg concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg eBooks with only a loose network of volunteer support.</data>
+      <data key="d2">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d3">22</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">160</data>
+      <data key="d7">f566fce8647c42beb074c7f1acccdae0</data>
+    </node>
+    <node id="SALT LAKE CITY">
+      <data key="d0">GEO</data>
+      <data key="d1">The location of the business office of the Project Gutenberg Literary Archive Foundation.</data>
+      <data key="d2">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">161</data>
+      <data key="d7">d8bb857b56664c4f9a4204e9e3ffd328</data>
+    </node>
+    <node id="MISSISSIPPI">
+      <data key="d0">GEO</data>
+      <data key="d1">The state under whose laws the Project Gutenberg Literary Archive Foundation is organized.</data>
+      <data key="d2">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d3">23</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">162</data>
+      <data key="d7">cb02cc212215494f88aebc108ab65522</data>
+    </node>
+    <node id="INTERNAL REVENUE SERVICE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Internal Revenue Service (IRS) is the U.S. government agency responsible for tax collection and tax law enforcement. It granted tax-exempt status to the Project Gutenberg Literary Archive Foundation.</data>
+      <data key="d2">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d3">23</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">163</data>
+      <data key="d7">4aa249a30c4f4800ba71162cccec7dbc</data>
+    </node>
+    <node id="UTAH">
+      <data key="d0">GEO</data>
+      <data key="d1">The state where Salt Lake City is located, which is the location of the business office of the Project Gutenberg Literary Archive Foundation.</data>
+      <data key="d2">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">164</data>
+      <data key="d7">415f80b9603c4796bd01909d957de065</data>
+    </node>
+    <node id="FOUNDATION">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d3">22</data>
+      <data key="d4">2</data>
+      <data key="d5">1</data>
+      <data key="d6">165</data>
+      <data key="d7">e852d3a413044007ab735ab32fe80f19</data>
+    </node>
+    <edge source="PROJECT GUTENBERG" target="A CHRISTMAS CAROL">
+      <data key="d8">9.0</data>
+      <data key="d9">Project Gutenberg provides a free eBook version of "A Christmas Carol".</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">abb98110a659472fbbb611b44aa1dcd3</data>
+      <data key="d12">0</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="UNITED STATES">
+      <data key="d8">2.0</data>
+      <data key="d9">Project Gutenberg is an initiative that provides a vast collection of eBooks, most of which are in the public domain in the United States. In the United States, these eBooks, including popular titles such as "A Christmas Carol," are available without restrictions, allowing readers free and easy access to a wide range of literary works.</data>
+      <data key="d10">aa8d2310a206001404282ddb3fd645aa,d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">6ccde375641f425d86835809ef80f3e4</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="BOB CRATCHIT">
+      <data key="d8">2.0</data>
+      <data key="d9">Project Gutenberg distributes the electronic version of the story featuring Bob Cratchit</data>
+      <data key="d10">2b5ecb7fba1301d1f3d307e194a6c435</data>
+      <data key="d11">3b58c13de4784ce490e4b6cbde617b03</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="SCROOGE">
+      <data key="d8">2.0</data>
+      <data key="d9">Project Gutenberg distributes the electronic version of the story featuring Scrooge</data>
+      <data key="d10">2b5ecb7fba1301d1f3d307e194a6c435</data>
+      <data key="d11">f5303c3f46484bd1985f4092987b42d5</data>
+      <data key="d12">3</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="TINY TIM">
+      <data key="d8">2.0</data>
+      <data key="d9">Project Gutenberg distributes the electronic version of the story featuring Tiny Tim</data>
+      <data key="d10">2b5ecb7fba1301d1f3d307e194a6c435</data>
+      <data key="d11">9cd1039d271e405eb4b7bc528f9a53e5</data>
+      <data key="d12">4</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="CITY">
+      <data key="d8">1.0</data>
+      <data key="d9">Project Gutenberg distributes the electronic version of the story set in the city</data>
+      <data key="d10">2b5ecb7fba1301d1f3d307e194a6c435</data>
+      <data key="d11">03dd26a755aa4d23990d9560a624bec4</data>
+      <data key="d12">5</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION">
+      <data key="d8">27.0</data>
+      <data key="d9">The Project Gutenberg Literary Archive Foundation manages the Project Gutenberg trademark and handles royalty payments and permissions. Additionally, it owns the compilation copyright of Project Gutenberg electronic works. The foundation was created to provide a secure and permanent future for Project Gutenberg.</data>
+      <data key="d10">0ddc17ea5e566006c000b4013f2181a5,aa8d2310a206001404282ddb3fd645aa,cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">196ea02010d6469cb0de94038b083ef9</data>
+      <data key="d12">6</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="PROJECT GUTENBERG LICENSE">
+      <data key="d8">8.0</data>
+      <data key="d9">The Project Gutenberg License governs the use and distribution of Project Gutenberg works</data>
+      <data key="d10">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d11">3f4bd33c23d944689487998a118bfc1e</data>
+      <data key="d12">7</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="COPYRIGHT HOLDER">
+      <data key="d8">7.0</data>
+      <data key="d9">Project Gutenberg works may be posted with the permission of the copyright holder</data>
+      <data key="d10">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d11">edbe1023aacf4fe58090e2f3747db6e3</data>
+      <data key="d12">8</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="PROJECT GUTENBERG&#8482; TRADEMARK">
+      <data key="d8">8.0</data>
+      <data key="d9">The Project Gutenberg&#8482; trademark is associated with Project Gutenberg works</data>
+      <data key="d10">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d11">2ada4c5b0deb40078516492052b75e56</data>
+      <data key="d12">9</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="PROJECT GUTENBERG VOLUNTEERS">
+      <data key="d8">7.0</data>
+      <data key="d9">Project Gutenberg volunteers contribute to the creation and maintenance of the Project Gutenberg collection</data>
+      <data key="d10">0ddc17ea5e566006c000b4013f2181a5</data>
+      <data key="d11">d2ccc786cda24c92be70777c174496e6</data>
+      <data key="d12">10</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="PROJECT GUTENBERG EMPLOYEES">
+      <data key="d8">7.0</data>
+      <data key="d9">Project Gutenberg employees work on the creation and maintenance of the Project Gutenberg collection</data>
+      <data key="d10">0ddc17ea5e566006c000b4013f2181a5</data>
+      <data key="d11">e34ebb50e0b14b3d937adaca586a3566</data>
+      <data key="d12">11</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="U.S.">
+      <data key="d8">1.0</data>
+      <data key="d9">Project Gutenberg works are subject to U.S. copyright law</data>
+      <data key="d10">0ddc17ea5e566006c000b4013f2181a5</data>
+      <data key="d11">e0a3f10e43324a3f88bef04faca11eca</data>
+      <data key="d12">12</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="MICHAEL S. HART">
+      <data key="d8">10.0</data>
+      <data key="d9">Michael S. Hart was the originator of the Project Gutenberg concept and produced and distributed Project Gutenberg eBooks for forty years.</data>
+      <data key="d10">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">483bf2f04ef74ce9b94c63f6e9614d5d</data>
+      <data key="d12">13</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG" target="FOUNDATION">
+      <data key="d8">9.0</data>
+      <data key="d9">The Foundation supports the mission of Project Gutenberg by providing a secure and permanent future for it.</data>
+      <data key="d10">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">d2f5ad4f645e4632b18a160bb8b831f0</data>
+      <data key="d12">14</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHARLES DICKENS" target="A CHRISTMAS CAROL">
+      <data key="d8">10.0</data>
+      <data key="d9">Charles Dickens is the author of "A Christmas Carol".</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">a71aebcdb4d643468015856734b52383</data>
+      <data key="d12">15</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="ARTHUR RACKHAM" target="A CHRISTMAS CAROL">
+      <data key="d8">8.0</data>
+      <data key="d9">Arthur Rackham illustrated "A Christmas Carol".</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">e037a4b640cc4ba9a8834729e69bddaa</data>
+      <data key="d12">16</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="J. B. LIPPINCOTT COMPANY" target="A CHRISTMAS CAROL">
+      <data key="d8">7.0</data>
+      <data key="d9">J. B. Lippincott Company originally published "A Christmas Carol" in 1915.</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">dd4ffbc4d25744939571aa594fcdc8bd</data>
+      <data key="d12">17</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="J. B. LIPPINCOTT COMPANY" target="PHILADELPHIA">
+      <data key="d8">5.0</data>
+      <data key="d9">Philadelphia is one of the cities where J. B. Lippincott Company published "A Christmas Carol".</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">0be874cf7a744fc89425d96a492678cf</data>
+      <data key="d12">18</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="J. B. LIPPINCOTT COMPANY" target="NEW YORK">
+      <data key="d8">5.0</data>
+      <data key="d9">New York is one of the cities where J. B. Lippincott Company published "A Christmas Carol".</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">8d79c503bdf2426190e0cad6ad14fc4e</data>
+      <data key="d12">19</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="UNITED STATES" target="EBENEZER SCROOGE">
+      <data key="d8">1.0</data>
+      <data key="d9">Ebenezer Scrooge is concerned about financial instruments that would become United States securities</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d11">765cf121b9a44e64b1fd7ec2b291b943</data>
+      <data key="d12">20</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="UNITED STATES" target="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION">
+      <data key="d8">6.0</data>
+      <data key="d9">The Project Gutenberg Literary Archive Foundation operates in the United States and complies with its charity laws.</data>
+      <data key="d10">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">ea271127e0d340e695b6a0db2bb54b22</data>
+      <data key="d12">21</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="UNITED STATES" target="INTERNAL REVENUE SERVICE">
+      <data key="d8">1.0</data>
+      <data key="d9">The Internal Revenue Service is a government agency in the United States.</data>
+      <data key="d10">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">91b2e251475f4dbfbc15877dc36ee38a</data>
+      <data key="d12">22</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="A CHRISTMAS CAROL" target="SUZANNE SHELL">
+      <data key="d8">6.0</data>
+      <data key="d9">Suzanne Shell helped produce the Project Gutenberg eBook of "A Christmas Carol".</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">cfb9868fc8334da39a483a6b8e6f8a3f</data>
+      <data key="d12">23</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="A CHRISTMAS CAROL" target="JANET BLENKINSHIP">
+      <data key="d8">6.0</data>
+      <data key="d9">Janet Blenkinship helped produce the Project Gutenberg eBook of "A Christmas Carol".</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">24210a7c8abb4fe1a20d6f103f709872</data>
+      <data key="d12">24</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="A CHRISTMAS CAROL" target="ONLINE DISTRIBUTED PROOFREADING TEAM">
+      <data key="d8">6.0</data>
+      <data key="d9">The Online Distributed Proofreading Team helped produce the Project Gutenberg eBook of "A Christmas Carol".</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">904b87231af7448ea7008398dfc1c0c8</data>
+      <data key="d12">25</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="BOB CRATCHIT">
+      <data key="d8">33.0</data>
+      <data key="d9">Peter Cratchit is Bob Cratchit's son.</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82,b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">2917ef549d014c99b5616d85604b5a29</data>
+      <data key="d12">26</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="MRS. CRATCHIT">
+      <data key="d8">8.0</data>
+      <data key="d9">Peter Cratchit is Mrs. Cratchit's son</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">841eac8d3643442793bafc14f5ccca7f</data>
+      <data key="d12">27</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="BELINDA CRATCHIT">
+      <data key="d8">7.0</data>
+      <data key="d9">Belinda Cratchit and Peter Cratchit are siblings</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">0216606490e14ea283e7ebc7c1f317b8</data>
+      <data key="d12">28</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="TINY TIM">
+      <data key="d8">7.0</data>
+      <data key="d9">Peter Cratchit and Tiny Tim are siblings</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">5b7e4cb23fb54856a18aa5ae02c9802c</data>
+      <data key="d12">29</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="MARTHA CRATCHIT">
+      <data key="d8">7.0</data>
+      <data key="d9">Peter Cratchit and Martha Cratchit are siblings</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">7c351adc284c47909e56c1841d8323d7</data>
+      <data key="d12">30</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="SPIRIT">
+      <data key="d8">5.0</data>
+      <data key="d9">The Spirit blessed Peter Cratchit's house</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">59a1ec51bc1c42e48392f92df1792716</data>
+      <data key="d12">31</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="CRATCHIT'S DWELLING">
+      <data key="d8">9.0</data>
+      <data key="d9">Peter Cratchit lives in the Cratchit dwelling</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">fe9e1938e65445f78fcc356577c46064</data>
+      <data key="d12">32</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="CHRISTMAS PRESENT">
+      <data key="d8">8.0</data>
+      <data key="d9">Peter Cratchit is celebrating Christmas Present</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">cb8c767314dc4361a8bd394b1a5b9653</data>
+      <data key="d12">33</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER CRATCHIT" target="CHRISTMAS DAY">
+      <data key="d8">14.0</data>
+      <data key="d9">Peter Cratchit celebrates Christmas Day with his family</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">df7bbbc3af8947a28d8e8898b01b3ad0</data>
+      <data key="d12">34</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TIM CRATCHIT" target="BOB CRATCHIT">
+      <data key="d8">7.0</data>
+      <data key="d9">Tim Cratchit, also known as Tiny Tim, is the youngest son of Bob Cratchit.</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">e780f61f2dc24934abe574086dc2c2f8</data>
+      <data key="d12">35</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MR. FEZZIWIG" target="MRS. FEZZIWIG">
+      <data key="d8">1.0</data>
+      <data key="d9">Mrs. Fezziwig is the worthy partner of Mr. Fezziwig.</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">25c599a21b9f463ba1ac8cad98514934</data>
+      <data key="d12">36</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FRED" target="EBENEZER SCROOGE">
+      <data key="d8">8.0</data>
+      <data key="d9">Fred is Ebenezer Scrooge's nephew.</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">eba155e1d8f141dabdfe9be66ae6601c</data>
+      <data key="d12">37</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FRED" target="SCROOGE">
+      <data key="d8">16.0</data>
+      <data key="d9">Fred is Scrooge's nephew who laughs heartily and speaks about Scrooge's attitude towards Christmas. Scrooge visits Fred's house for dinner and is warmly welcomed.</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45,bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">874053129cd74fe8843d14f6596c1a0e</data>
+      <data key="d12">38</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FRED" target="SCROOGE'S NIECE">
+      <data key="d8">9.0</data>
+      <data key="d9">Fred and Scrooge's niece are married and share opinions about Scrooge</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">9cedbfe52e0a4f0ca5d393701461de7c</data>
+      <data key="d12">39</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FRED" target="CHRISTMAS">
+      <data key="d8">8.0</data>
+      <data key="d9">Fred discusses Christmas and its significance</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">0e2f1e876eff4d6c98afe66dc279a77f</data>
+      <data key="d12">40</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FRED" target="TOPPER">
+      <data key="d8">5.0</data>
+      <data key="d9">Topper is a guest at Fred's party</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d11">2258c75047ab4e888a5bc11d4f9cd55f</data>
+      <data key="d12">41</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FRED" target="PLUMP SISTER">
+      <data key="d8">1.0</data>
+      <data key="d9">The plump sister is a guest at Fred's party</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d11">6daa17c3c13f4a17af6dcaff47fa41b4</data>
+      <data key="d12">42</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF CHRISTMAS PAST" target="SCROOGE">
+      <data key="d8">43.0</data>
+      <data key="d9">The Ghost of Christmas Past reminds Scrooge of his past and the kindness he could have cultivated. This spectral figure shows Scrooge scenes from his own past, prompting reflections on his life and encouraging him to reconsider his actions and attitudes. Through these visions, the Ghost of Christmas Past aims to evoke a sense of nostalgia and self-awareness in Scrooge, highlighting the moments where he could have been more compassionate and generous.</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588,4cf4deeb7f61acb7b7db4ce0e57fb1e6,bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d11">6b59e112bc8d4868b2081735aec62c6d</data>
+      <data key="d12">43</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF CHRISTMAS PAST" target="GHOST">
+      <data key="d8">1.0</data>
+      <data key="d9">The Ghost of Christmas Past is an event where the Ghost shows Scrooge scenes from his past</data>
+      <data key="d10">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d11">082f53597f3d4541ae6607a203ffc9b5</data>
+      <data key="d12">44</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF CHRISTMAS PRESENT" target="SCROOGE">
+      <data key="d8">37.0</data>
+      <data key="d9">The Ghost of Christmas Present visits Scrooge to show him the current state of Christmas. During this visit, Scrooge recalls seeing people with the Ghost of Christmas Present. The Ghost of Christmas Present observes the present events and interactions at the gathering, highlighting the current joys and hardships of people. Through these observations, the Ghost of Christmas Present aims to provide Scrooge with a deeper understanding of the present circumstances surrounding Christmas.</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588,4cf4deeb7f61acb7b7db4ce0e57fb1e6,6c362d3f8d01c76d84443dcabf3f322a,77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d11">3927b1f17f0a4a35baa335ab8a6c2584</data>
+      <data key="d12">45</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF CHRISTMAS PRESENT" target="HOLLY">
+      <data key="d8">6.0</data>
+      <data key="d9">The Ghost of Christmas Present wears a holly wreath on its head</data>
+      <data key="d10">77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d11">3cfef340c0614df2aeac00b4ca1cce32</data>
+      <data key="d12">46</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF CHRISTMAS PRESENT" target="MISTLETOE">
+      <data key="d8">6.0</data>
+      <data key="d9">The room is decorated with mistletoe during the Ghost of Christmas Present's visit</data>
+      <data key="d10">77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d11">ee8b7cd7ba1a46a8b15249b1d847e155</data>
+      <data key="d12">47</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF CHRISTMAS PRESENT" target="IVY">
+      <data key="d8">6.0</data>
+      <data key="d9">The room is decorated with ivy during the Ghost of Christmas Present's visit</data>
+      <data key="d10">77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d11">ce5760d326df4143beeed6ba75b3f4f2</data>
+      <data key="d12">48</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF CHRISTMAS PRESENT" target="PLENTY'S HORN">
+      <data key="d8">1.0</data>
+      <data key="d9">The Ghost of Christmas Present holds a glowing torch in the shape of Plenty's Horn</data>
+      <data key="d10">77ae3762a0b062ca5350ea54a05450ae</data>
+      <data key="d11">e728da4ba84e43df88c6ce965e9fb4ba</data>
+      <data key="d12">49</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF CHRISTMAS YET TO COME" target="SCROOGE">
+      <data key="d8">16.0</data>
+      <data key="d9">The Ghost of Christmas Yet to Come shows Scrooge the potential future consequences of his actions. This spectral figure reveals to Scrooge a vision of what the future holds, emphasizing the dire outcomes that may result from his current behavior and choices. Through these haunting glimpses, the Ghost of Christmas Yet to Come aims to prompt Scrooge to reflect on his life and consider making significant changes to avoid such grim prospects.</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588,98f3970b31dfa1d7391cdaa453d6ade7</data>
+      <data key="d11">d78ed16c442942c6b2bf64013050fef6</data>
+      <data key="d12">50</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST OF JACOB MARLEY" target="EBENEZER SCROOGE">
+      <data key="d8">9.0</data>
+      <data key="d9">The Ghost of Jacob Marley is the spectre of Scrooge's former partner in business.</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">b24992c7031b4bc19bd80bdd10887d55</data>
+      <data key="d12">51</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="JOE" target="MRS. DILBER">
+      <data key="d8">7.0</data>
+      <data key="d9">Joe appraises and buys items from Mrs. Dilber</data>
+      <data key="d10">bc606176c752984da6d202275ee8c7a6</data>
+      <data key="d11">70ff4ef6e4ad4f46b69d1bf01e6e70c9</data>
+      <data key="d12">52</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="JOE" target="WOMAN">
+      <data key="d8">7.0</data>
+      <data key="d9">Joe appraises and buys items from the woman</data>
+      <data key="d10">bc606176c752984da6d202275ee8c7a6</data>
+      <data key="d11">c6c12bc6705341c5825e7c833bd9c5f7</data>
+      <data key="d12">53</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="JOE" target="UNHAPPY MAN">
+      <data key="d8">6.0</data>
+      <data key="d9">Joe appraises and buys items that were taken from the deceased man</data>
+      <data key="d10">bc606176c752984da6d202275ee8c7a6</data>
+      <data key="d11">b1cb4900122b4ee5bb53b3677298207b</data>
+      <data key="d12">54</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="EBENEZER SCROOGE" target="BOB CRATCHIT">
+      <data key="d8">8.0</data>
+      <data key="d9">Bob Cratchit is a clerk to Ebenezer Scrooge.</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">2e2cb01300d44f8fbef5010a98d217de</data>
+      <data key="d12">55</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="EBENEZER SCROOGE" target="FAN">
+      <data key="d8">8.0</data>
+      <data key="d9">Fan is the sister of Scrooge.</data>
+      <data key="d10">d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">bca65227ca104f8ba64acfc394ca8282</data>
+      <data key="d12">56</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CAROLINE" target="CAROLINE'S HUSBAND">
+      <data key="d8">8.0</data>
+      <data key="d9">Caroline and her husband discuss the death of the creditor and its implications</data>
+      <data key="d10">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">14d2a5f8080d4a26bea3881db130feea</data>
+      <data key="d12">57</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CAROLINE" target="DEATH">
+      <data key="d8">7.0</data>
+      <data key="d9">Caroline feels relief upon hearing of the creditor's death</data>
+      <data key="d10">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">3722af58c0d94792937dc0ace1f735da</data>
+      <data key="d12">58</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CAROLINE" target="MOTHER">
+      <data key="d8">7.0</data>
+      <data key="d9">The mother and Caroline are the same person, feeling relief at the creditor's death</data>
+      <data key="d10">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">f6d4fb660419432c81844b058cc14705</data>
+      <data key="d12">59</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CAROLINE" target="CHILDREN">
+      <data key="d8">6.0</data>
+      <data key="d9">Caroline's children are playing while she waits for her husband</data>
+      <data key="d10">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">8f6d45b53537424b82750ce43b8c2eec</data>
+      <data key="d12">60</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CAROLINE" target="MERCILESS CREDITOR">
+      <data key="d8">7.0</data>
+      <data key="d9">Caroline feels relief and happiness at the death of a merciless creditor</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">11dfb6802d31426db531c80be667fff8</data>
+      <data key="d12">61</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="BOB CRATCHIT">
+      <data key="d8">34.0</data>
+      <data key="d9">Bob Cratchit and Mrs. Cratchit are husband and wife, and they are both part of the Cratchit family. Mrs. Cratchit is the wife of Bob Cratchit.</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746,b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">4aa1e0779cbe4afca62315913218bd14</data>
+      <data key="d12">62</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="BELINDA CRATCHIT">
+      <data key="d8">8.0</data>
+      <data key="d9">Belinda Cratchit is Mrs. Cratchit's daughter</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">a0667984a12247a18264075692b78c89</data>
+      <data key="d12">63</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="TINY TIM">
+      <data key="d8">18.0</data>
+      <data key="d9">Mrs. Cratchit is mourning the death of her child, Tiny Tim. Tiny Tim is Mrs. Cratchit's son.</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">ae297b94095d42b59fbdda6a6a48c2a9</data>
+      <data key="d12">64</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="MARTHA CRATCHIT">
+      <data key="d8">8.0</data>
+      <data key="d9">Martha Cratchit is Mrs. Cratchit's daughter</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">ef1c2df4c3c647b9a3fe56304c00f324</data>
+      <data key="d12">65</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="SPIRIT">
+      <data key="d8">5.0</data>
+      <data key="d9">The Spirit blessed Mrs. Cratchit's house</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">422f4a8be12149f7b5bef28b7bedcaf8</data>
+      <data key="d12">66</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="CRATCHIT'S DWELLING">
+      <data key="d8">9.0</data>
+      <data key="d9">Mrs. Cratchit lives in the Cratchit dwelling</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">fce67a115730428ca94a0627ce1b38aa</data>
+      <data key="d12">67</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="CHRISTMAS PRESENT">
+      <data key="d8">8.0</data>
+      <data key="d9">Mrs. Cratchit is celebrating Christmas Present</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">3fa3bcbf761a4dd1a0331a5a81f570d2</data>
+      <data key="d12">68</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="MASTER PETER">
+      <data key="d8">5.0</data>
+      <data key="d9">Master Peter is a member of the Cratchit family and helps with the dinner preparations</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">2fc6282bf2ef4878a70d7048b00d0388</data>
+      <data key="d12">69</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="MISS BELINDA">
+      <data key="d8">5.0</data>
+      <data key="d9">Miss Belinda is a member of the Cratchit family and helps with the dinner preparations</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">be49e9a170ad451497c560d30dfa518a</data>
+      <data key="d12">70</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="MARTHA">
+      <data key="d8">5.0</data>
+      <data key="d9">Martha is a member of the Cratchit family and helps with the dinner preparations</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">b057872110f546da8194821a505f60a0</data>
+      <data key="d12">71</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="CRATCHIT FAMILY">
+      <data key="d8">10.0</data>
+      <data key="d9">Mrs. Cratchit is a member of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">3fd21e47a4e6432b983b58ff26b25c5b</data>
+      <data key="d12">72</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="CHRISTMAS">
+      <data key="d8">8.0</data>
+      <data key="d9">Mrs. Cratchit is celebrating Christmas with her family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">c80f3ae2ae78488abaaafa44e1b17f26</data>
+      <data key="d12">73</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="DINNER">
+      <data key="d8">8.0</data>
+      <data key="d9">Mrs. Cratchit is participating in the family dinner</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">96e426f2d02c4cb5a3d8e108be64124b</data>
+      <data key="d12">74</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="SCROOGE">
+      <data key="d8">12.0</data>
+      <data key="d9">Mrs. Cratchit criticizes Scrooge and expresses her disdain for him</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">424bcd6d4dd34ae3bfacca8b0e164f19</data>
+      <data key="d12">75</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="CHRISTMAS DAY">
+      <data key="d8">14.0</data>
+      <data key="d9">Mrs. Cratchit celebrates Christmas Day with her family</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">b594288095d945778f7660d68430a733</data>
+      <data key="d12">76</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="FEAST">
+      <data key="d8">6.0</data>
+      <data key="d9">Mrs. Cratchit criticizes Scrooge during the Feast</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">3bc23ca4bdf1430595b0f3c91dec4470</data>
+      <data key="d12">77</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. CRATCHIT" target="CRATCHIT'S HOUSE">
+      <data key="d8">9.0</data>
+      <data key="d9">Mrs. Cratchit lives in Cratchit's House</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">d4751a65698d4ab78ffe8054fc139c82</data>
+      <data key="d12">78</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BELINDA CRATCHIT" target="BOB CRATCHIT">
+      <data key="d8">15.0</data>
+      <data key="d9">Belinda Cratchit is Bob Cratchit's daughter.</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">efde6523a5694da69faef7181bd8c71d</data>
+      <data key="d12">79</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BELINDA CRATCHIT" target="TINY TIM">
+      <data key="d8">7.0</data>
+      <data key="d9">Belinda Cratchit and Tiny Tim are siblings</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">5b50cbec1bb94766a0ba5587cacfa4c0</data>
+      <data key="d12">80</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BELINDA CRATCHIT" target="MARTHA CRATCHIT">
+      <data key="d8">7.0</data>
+      <data key="d9">Belinda Cratchit and Martha Cratchit are siblings</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">78ac0fff7def422c8cf44e2a79e079ad</data>
+      <data key="d12">81</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BELINDA CRATCHIT" target="SPIRIT">
+      <data key="d8">5.0</data>
+      <data key="d9">The Spirit blessed Belinda Cratchit's house</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">91f4188447374b3cb6d5715016f26e24</data>
+      <data key="d12">82</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BELINDA CRATCHIT" target="CRATCHIT'S DWELLING">
+      <data key="d8">9.0</data>
+      <data key="d9">Belinda Cratchit lives in the Cratchit dwelling</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">454642cb8f9648cca1acb7f209a849bb</data>
+      <data key="d12">83</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BELINDA CRATCHIT" target="CHRISTMAS PRESENT">
+      <data key="d8">8.0</data>
+      <data key="d9">Belinda Cratchit is celebrating Christmas Present</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">8af93b9dedd046c6a91d754bb9a6f1a7</data>
+      <data key="d12">84</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARTHA CRATCHIT" target="BOB CRATCHIT">
+      <data key="d8">33.0</data>
+      <data key="d9">Martha Cratchit is Bob Cratchit's daughter.</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82,b4dec8fbe9f2a2c6a79d09c9484d15ae,d6583840046247f428a9f02738842a7c</data>
+      <data key="d11">c7f58bd10bbc41eeac8d072b99a60b25</data>
+      <data key="d12">85</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARTHA CRATCHIT" target="TINY TIM">
+      <data key="d8">7.0</data>
+      <data key="d9">Tiny Tim and Martha Cratchit are siblings</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">769b0455e55f44af91ac713270d49ca6</data>
+      <data key="d12">86</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARTHA CRATCHIT" target="SPIRIT">
+      <data key="d8">5.0</data>
+      <data key="d9">The Spirit blessed Martha Cratchit's house</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">f9d5dfae2955445ab85881d6c06e0ccf</data>
+      <data key="d12">87</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARTHA CRATCHIT" target="CRATCHIT'S DWELLING">
+      <data key="d8">9.0</data>
+      <data key="d9">Martha Cratchit lives in the Cratchit dwelling</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">3e4bba96917a4a9182e26b991d3ecaa2</data>
+      <data key="d12">88</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARTHA CRATCHIT" target="CHRISTMAS PRESENT">
+      <data key="d8">8.0</data>
+      <data key="d9">Martha Cratchit is celebrating Christmas Present</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">e1fe02a8abdb4998b975be10c859030b</data>
+      <data key="d12">89</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARTHA CRATCHIT" target="CHRISTMAS DAY">
+      <data key="d8">8.0</data>
+      <data key="d9">Martha Cratchit celebrates Christmas Day with her family</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">17a9360f2db344cfba25c9214a66b368</data>
+      <data key="d12">90</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. DILBER" target="OLD JOE">
+      <data key="d8">6.0</data>
+      <data key="d9">Mrs. Dilber interacts with Old Joe in his shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">1bdb5789ebe24937a661d28b4275bf35</data>
+      <data key="d12">91</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. DILBER" target="LAUNDRESS">
+      <data key="d8">5.0</data>
+      <data key="d9">Mrs. Dilber and the laundress meet in Old Joe's shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">851502d926a747eb8cc36a4b83936510</data>
+      <data key="d12">92</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. DILBER" target="UNDERTAKER'S MAN">
+      <data key="d8">5.0</data>
+      <data key="d9">Mrs. Dilber and the undertaker's man meet in Old Joe's shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">4dd7141e986444738c22d31764dd1c51</data>
+      <data key="d12">93</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. DILBER" target="CHARWOMAN">
+      <data key="d8">5.0</data>
+      <data key="d9">The charwoman and Mrs. Dilber meet in Old Joe's shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">e76414f709944c3c87c0550c0c927050</data>
+      <data key="d12">94</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. DILBER" target="DEAD MAN">
+      <data key="d8">4.0</data>
+      <data key="d9">Mrs. Dilber discusses the dead man's belongings and his life</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">a5fb2bc64ffc45a9990dd162ccc8f6eb</data>
+      <data key="d12">95</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FAN" target="SCROOGE">
+      <data key="d8">8.0</data>
+      <data key="d9">Fan is Scrooge's sister who brings him home from school</data>
+      <data key="d10">ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d11">01dec3296c984bb6becc72e51a06388e</data>
+      <data key="d12">96</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MRS. FEZZIWIG" target="FEZZIWIG">
+      <data key="d8">8.0</data>
+      <data key="d9">Fezziwig and Mrs. Fezziwig are partners in dancing and entertaining guests at the domestic ball</data>
+      <data key="d10">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d11">6e35e0163cac42efb6f1d7b3b343c309</data>
+      <data key="d12">97</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="TINY TIM">
+      <data key="d8">46.0</data>
+      <data key="d9">Bob Cratchit is Tiny Tim's father and shows great affection and concern for him. Despite his deep love and care, Bob Cratchit is mourning the death of his child, Tiny Tim.</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82,5d70b47bf7167b7586f47fcc4355a746,b4dec8fbe9f2a2c6a79d09c9484d15ae,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">c935accae1334c66b9518ac20501f700</data>
+      <data key="d12">98</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="CHURCH">
+      <data key="d8">6.0</data>
+      <data key="d9">Bob Cratchit attended church with Tiny Tim</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">9d752988f9dc44f1ad4bb62125a99d38</data>
+      <data key="d12">99</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="SPIRIT">
+      <data key="d8">5.0</data>
+      <data key="d9">The Spirit blessed Bob Cratchit's house</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">9daa378dbea541af9eacdba11b38ba54</data>
+      <data key="d12">100</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="CRATCHIT'S DWELLING">
+      <data key="d8">9.0</data>
+      <data key="d9">Bob Cratchit lives in the Cratchit dwelling</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">15cb2f71f8f8460195c9d996e5420e58</data>
+      <data key="d12">101</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="CHRISTMAS PRESENT">
+      <data key="d8">8.0</data>
+      <data key="d9">Bob Cratchit is celebrating Christmas Present</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">a1914474de04494c96145d79a9f019d4</data>
+      <data key="d12">102</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="CRATCHIT FAMILY">
+      <data key="d8">10.0</data>
+      <data key="d9">Bob Cratchit is a member of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">9ba2e1c871704e8087186da94d0c635e</data>
+      <data key="d12">103</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="CHRISTMAS">
+      <data key="d8">14.0</data>
+      <data key="d9">Bob Cratchit is celebrating Christmas with his family. During this festive season, Scrooge promises to discuss Bob Cratchit's affairs over a Christmas bowl of smoking bishop.</data>
+      <data key="d10">2b5ecb7fba1301d1f3d307e194a6c435,5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">afca2bbf1ba84231b3652c8cd022b849</data>
+      <data key="d12">104</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="DINNER">
+      <data key="d8">8.0</data>
+      <data key="d9">Bob Cratchit is participating in the family dinner</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">7abd1c13d9c94515b51b583f9ab2eb8f</data>
+      <data key="d12">105</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="SCROOGE">
+      <data key="d8">41.0</data>
+      <data key="d9">Bob Cratchit works for Scrooge and toasts to his health. Scrooge, in a gesture of goodwill, decides to send a large turkey to Bob Cratchit. Additionally, Scrooge promises to raise Bob Cratchit's salary and assist his struggling family. True to his word, Scrooge raises Bob Cratchit's salary and offers to help his family, demonstrating his commitment to their well-being.</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45,1bdf253855a115bcf51faa63d7b07e82,2b5ecb7fba1301d1f3d307e194a6c435,6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">b70c47638eb24786bde1a99a0be9fb6a</data>
+      <data key="d12">106</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="CHRISTMAS DAY">
+      <data key="d8">14.0</data>
+      <data key="d9">Bob Cratchit celebrates Christmas Day with his family</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">ca9a1f2102f349df9f4e06312ffe04dd</data>
+      <data key="d12">107</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="FEAST">
+      <data key="d8">7.0</data>
+      <data key="d9">Bob Cratchit toasts to Scrooge as the Founder of the Feast</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">8e21fd6139ed4c72b6ada24b322a6a10</data>
+      <data key="d12">108</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="PETER">
+      <data key="d8">9.0</data>
+      <data key="d9">Bob Cratchit and Peter are father and son</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">b4ecc1087238418295f529acc145a49a</data>
+      <data key="d12">109</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="MR. SCROOGE'S NEPHEW">
+      <data key="d8">1.0</data>
+      <data key="d9">Mr. Scrooge's nephew showed kindness to Bob Cratchit and offered his help</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">81f65fa40ad848539dbc2aa33f58f758</data>
+      <data key="d12">110</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="BOB CRATCHIT" target="CRATCHIT'S HOUSE">
+      <data key="d8">9.0</data>
+      <data key="d9">Bob Cratchit lives in Cratchit's House</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">329b994c3e734695aab677a6315737c8</data>
+      <data key="d12">111</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="SCROOGE'S NEPHEW">
+      <data key="d8">38.0</data>
+      <data key="d9">Scrooge's nephew consistently makes efforts to include Scrooge in their annual celebrations, extending invitations every year despite Scrooge's notorious attitude towards Christmas. He pities Scrooge for his lack of festive spirit and attempts to maintain a friendly relationship with him. Known for his hearty laughter, Scrooge's nephew often speaks about Scrooge's dismissive attitude towards the holiday, yet he remains determined to bring some cheer into Scrooge's life.</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74,4cf4deeb7f61acb7b7db4ce0e57fb1e6,bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">ed7393b2cfc342348c96bc5b21d0442a</data>
+      <data key="d12">112</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="CLERK">
+      <data key="d8">12.0</data>
+      <data key="d9">The clerk works for Scrooge and is threatened with losing his job if he expresses his Christmas spirit</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d11">4770e9bb295c4f658e3d3c927bd4453b</data>
+      <data key="d12">113</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="MARLEY">
+      <data key="d8">51.0</data>
+      <data key="d9">Marley was Scrooge's business partner who has been dead for seven years. Marley, who was Scrooge's former partner in life, now appears to him as a ghost. Scrooge often recalls the face of Marley, reflecting on their past partnership.</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74,759315fa84c14e81f84fc71c73746184,77ae3762a0b062ca5350ea54a05450ae,e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d11">397e52bd556c487ea624467a2f4b0d4b</data>
+      <data key="d12">114</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="PORTLY GENTLEMEN">
+      <data key="d8">8.0</data>
+      <data key="d9">The portly gentlemen visit Scrooge to ask for charitable donations, which he refuses</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d11">516d8ae5ecd34afcaafbf0a1c6eee70c</data>
+      <data key="d12">115</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="CHRISTMAS">
+      <data key="d8">85.0</data>
+      <data key="d9">Christmas is the central event around which the story and the visions revolve. It is the holiday being celebrated, which is central to the story and Scrooge's transformation. Initially, Scrooge despises Christmas and expresses his disdain for the holiday, being notably uncharitable during the Christmas season. However, during Christmas, Scrooge experiences ghostly visitations and witnesses various Christmas celebrations. These experiences lead to a significant change in Scrooge's attitude towards Christmas, which is a central theme in the discussion. Ultimately, Scrooge learns to keep Christmas well and becomes known for his newfound appreciation and celebration of the holiday. The events and reflections all take place during Christmas, highlighting its importance in the narrative.</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74,0e2b719e4c97d0d8bfeb2a53f7638eb6,2b5ecb7fba1301d1f3d307e194a6c435,4cf4deeb7f61acb7b7db4ce0e57fb1e6,77ae3762a0b062ca5350ea54a05450ae,98f3970b31dfa1d7391cdaa453d6ade7,999c9887098d1a25dc3b42a8da7ddc8c,bc5fde5d1e00a3ecc1e548c8d24f1c1f,ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d11">c497b411c2764bc39216cef6c0a3676f</data>
+      <data key="d12">116</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="BEDLAM">
+      <data key="d8">2.0</data>
+      <data key="d9">Scrooge mentions Bedlam in a derogatory manner, implying that his clerk is crazy for celebrating Christmas</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d11">a8a91838badf488882a295280d50b7d7</data>
+      <data key="d12">117</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="UNION WORKHOUSES">
+      <data key="d8">14.0</data>
+      <data key="d9">Scrooge mentions Union workhouses as places where the poor can go</data>
+      <data key="d10">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d11">dedece8b7cea438883fc6c534c97329d</data>
+      <data key="d12">118</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="TREADMILL">
+      <data key="d8">14.0</data>
+      <data key="d9">Scrooge mentions the Treadmill as being in full operation</data>
+      <data key="d10">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d11">254b0076d3324cdc89125c9691fa39ae</data>
+      <data key="d12">119</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="POOR LAW">
+      <data key="d8">14.0</data>
+      <data key="d9">Scrooge mentions the Poor Law as being in full vigour</data>
+      <data key="d10">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d11">4b5b4542ea524521848d5bde07a6bdf6</data>
+      <data key="d12">120</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="GENTLEMAN">
+      <data key="d8">14.0</data>
+      <data key="d9">Scrooge and the gentleman share an interesting interaction. Initially, the gentleman approaches Scrooge to ask for donations for the poor. In a surprising turn of events, Scrooge responds with unexpected generosity, astonishing the gentleman with his charitable spirit.</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45,0e2b719e4c97d0d8bfeb2a53f7638eb6,6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">2f42b57b91a34c46b2d4ec459911e11e</data>
+      <data key="d12">121</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="DUTCH MERCHANT">
+      <data key="d8">10.0</data>
+      <data key="d9">The fireplace in Scrooge's house was built by a Dutch merchant</data>
+      <data key="d10">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d11">302437cfb5c14ab292e688e7a3c0f912</data>
+      <data key="d12">122</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="WINE-MERCHANT">
+      <data key="d8">2.0</data>
+      <data key="d9">The wine-merchant's cellar is below Scrooge's house</data>
+      <data key="d10">759315fa84c14e81f84fc71c73746184</data>
+      <data key="d11">aeab57b62ec546959180e3219b2e6d20</data>
+      <data key="d12">123</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="JACOB MARLEY">
+      <data key="d8">43.0</data>
+      <data key="d9">Jacob Marley was Scrooge's partner in life and now appears to him as a ghost. As a spectral figure, Jacob Marley warns Scrooge about the impending visits from three spirits. He predicted the arrival of these spirits to Scrooge, and his memory continues to haunt Scrooge, serving as a reminder of his past actions.</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588,4cf4deeb7f61acb7b7db4ce0e57fb1e6,98f3970b31dfa1d7391cdaa453d6ade7,e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d11">2418d166f5f14104b9ac2db1c2b223cc</data>
+      <data key="d12">124</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="MARLEY'S GHOST">
+      <data key="d8">16.0</data>
+      <data key="d9">SCROOGE is confronted by MARLEY'S GHOST, which causes him to question his senses and reality. Marley's Ghost had previously visited Scrooge and warned him of future visitations.</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6,e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d11">5ef806d0c6d84c62b11141874a737427</data>
+      <data key="d12">125</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="CELLAR">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge hears supernatural noises coming from the cellar, which adds to his fear and disbelief</data>
+      <data key="d10">e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d11">06a1ec44d6084845a7d6c0489e1078c2</data>
+      <data key="d12">126</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="FIREPLACE">
+      <data key="d8">7.0</data>
+      <data key="d9">Scrooge and Marley's ghost have their conversation by the fireplace, which is a significant setting in the scene</data>
+      <data key="d10">e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d11">2cbee0d00ba24972a5da08be34c4fdbe</data>
+      <data key="d12">127</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="CHAIR">
+      <data key="d8">1.0</data>
+      <data key="d9">Scrooge holds onto the chair tightly to prevent himself from falling when Marley's ghost makes a dismal noise</data>
+      <data key="d10">e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d11">e09b27e133fa4ffca40e6e862212e150</data>
+      <data key="d12">128</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="GHOST">
+      <data key="d8">92.0</data>
+      <data key="d9">The Ghost plays a pivotal role in guiding Scrooge through a transformative journey. The Ghost appears to Scrooge and draws the curtains of his bed, initiating their interaction. Throughout their encounters, the Ghost shows Scrooge various scenes from his past, causing him emotional distress and guiding him through his past memories. Additionally, the Ghost presents visions and symbolic representations, including scenes from the future, and rebukes Scrooge for his past behavior. One significant revelation from the Ghost is informing Scrooge about Tiny Tim's potential fate. Through these experiences, the Ghost aims to enlighten Scrooge and prompt a change in his ways.</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82,5d70b47bf7167b7586f47fcc4355a746,8435b078474636a989a8c22f5493e1b6,98f3970b31dfa1d7391cdaa453d6ade7,999c9887098d1a25dc3b42a8da7ddc8c,bf29edcb41403e5af43aa101072f4fdf,ce95e4fc6ee410973c040fc628dce155,d453d198afec5b284ff36024780b088c,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">c84f4b3d53e94743bde0f4b0facf5852</data>
+      <data key="d12">129</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="NEIGHBOURING CHURCH">
+      <data key="d8">5.0</data>
+      <data key="d9">Scrooge hears the chimes of the neighbouring church</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d11">6471f1eaad8945e583f27ed1774d9639</data>
+      <data key="d12">130</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="BED">
+      <data key="d8">7.0</data>
+      <data key="d9">Scrooge is lying in his bed when he wakes up and experiences the events</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d11">a8cab0614bde4989a4b1bb58a8179c44</data>
+      <data key="d12">131</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="CHAMBER">
+      <data key="d8">7.0</data>
+      <data key="d9">Scrooge is in his chamber when he wakes up and experiences the events</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d11">431a4e1bfcb5455599135c1173b2a47d</data>
+      <data key="d12">132</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="DRESSING-GOWN">
+      <data key="d8">4.0</data>
+      <data key="d9">Scrooge uses his dressing-gown to rub the frost off the window</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d11">ad47d4475acd4f5292ca27377bc3db0e</data>
+      <data key="d12">133</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="FIRST OF EXCHANGE">
+      <data key="d8">3.0</data>
+      <data key="d9">Scrooge mentions the First of Exchange in relation to his business dealings</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d11">04762a92a4064e2cad95de6e8d963110</data>
+      <data key="d12">134</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="VISITATION">
+      <data key="d8">8.0</data>
+      <data key="d9">Scrooge is expecting a visitation as warned by Marley's Ghost</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d11">df4b16e302d5431e8abb510d4eac9d5a</data>
+      <data key="d12">135</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="SPIRIT">
+      <data key="d8">63.0</data>
+      <data key="d9">SCROOGE interacts with the SPIRIT, pleading for a chance to change his ways. The SPIRIT guides SCROOGE through visions of the past, present, and future, showing him various scenes that include symbolic representations. These visions cause SCROOGE emotional distress, particularly those from his past. Throughout these experiences, the SPIRIT stands by SCROOGE's side, sometimes at his elbow, and at one point, smiles approvingly at Fred.</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588,1bdf253855a115bcf51faa63d7b07e82,8435b078474636a989a8c22f5493e1b6,98f3970b31dfa1d7391cdaa453d6ade7,999c9887098d1a25dc3b42a8da7ddc8c,bc5fde5d1e00a3ecc1e548c8d24f1c1f,d453d198afec5b284ff36024780b088c,f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">1aa3d733020547c4ac9c2a7759821140</data>
+      <data key="d12">136</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="SCHOOLMASTER">
+      <data key="d8">6.0</data>
+      <data key="d9">The schoolmaster was in charge of the school where Scrooge was a student</data>
+      <data key="d10">ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d11">a6515008e55c47c5b9bea44b8eb2f91c</data>
+      <data key="d12">137</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="FEZZIWIG">
+      <data key="d8">14.0</data>
+      <data key="d9">Fezziwig was Scrooge's employer during his apprenticeship. Scrooge reflects on the happiness Fezziwig brought to others and how he made their service a pleasure.</data>
+      <data key="d10">bf29edcb41403e5af43aa101072f4fdf,ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d11">9eb44bf56a9b4e97bca40aec908f5dab</data>
+      <data key="d12">138</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="NEPHEW">
+      <data key="d8">15.0</data>
+      <data key="d9">Scrooge visits his nephew Fred for dinner. Scrooge's nephew, Fred, is the child of his sister Fan.</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45,ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d11">e3d25041906e44feb55b767ab6933d26</data>
+      <data key="d12">139</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="CITY">
+      <data key="d8">7.0</data>
+      <data key="d9">Scrooge and the Spirit find themselves in a busy city filled with activity.</data>
+      <data key="d10">98f3970b31dfa1d7391cdaa453d6ade7,ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d11">e93ab282577f47168805b82395f5724d</data>
+      <data key="d12">140</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="WAREHOUSE">
+      <data key="d8">7.0</data>
+      <data key="d9">Scrooge was apprenticed at the warehouse where Fezziwig worked</data>
+      <data key="d10">ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d11">174be3cf9ef24d67b4cb49787cc5ce5a</data>
+      <data key="d12">141</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="DICK">
+      <data key="d8">5.0</data>
+      <data key="d9">Scrooge listens to Dick and another apprentice praising Fezziwig</data>
+      <data key="d10">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d11">1e5d3be2769d461eae41d0fc7ff57aef</data>
+      <data key="d12">142</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="GIRL IN MOURNING DRESS">
+      <data key="d8">7.0</data>
+      <data key="d9">The girl in the mourning dress speaks to Scrooge about how his pursuit of wealth has displaced her in his affections</data>
+      <data key="d10">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d11">82547fec1d8c43a18bcac7162ea1cd83</data>
+      <data key="d12">143</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="APPRENTICES">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge listens to the apprentices praising Fezziwig and reflects on the happiness Fezziwig brought to others</data>
+      <data key="d10">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d11">53f8bc1823eb4e0287295e84ebbe81bb</data>
+      <data key="d12">144</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="GIRL">
+      <data key="d8">19.0</data>
+      <data key="d9">Scrooge and the girl were once in a relationship, but they parted ways due to Scrooge's changed nature. Despite their past, the girl now shows Scrooge upstairs to meet Fred.</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45,d453d198afec5b284ff36024780b088c</data>
+      <data key="d11">f307ab49382f426592a18969c190a423</data>
+      <data key="d12">145</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="TINY TIM">
+      <data key="d8">34.0</data>
+      <data key="d9">Scrooge becomes a second father to Tiny Tim. He is deeply concerned about Tiny Tim's health and future, often showing his care by asking the Ghost about it. Scrooge even compares the size of the turkey to Tiny Tim, highlighting his affectionate and protective nature towards the young boy.</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82,2b5ecb7fba1301d1f3d307e194a6c435,5d70b47bf7167b7586f47fcc4355a746,6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">5216b7ff026046b5aa7a56a94251e901</data>
+      <data key="d12">146</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="FUTURE">
+      <data key="d8">9.0</data>
+      <data key="d9">SCROOGE vows to honor and learn from the FUTURE. The Ghost shows SCROOGE a vision of the future to make him realize the consequences of his actions.</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588,1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">50b9489dfddb4b619a9833528b6e9d61</data>
+      <data key="d12">147</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="FEAST">
+      <data key="d8">7.0</data>
+      <data key="d9">Bob Cratchit refers to Scrooge as the Founder of the Feast</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">18b147ba3f904aa7b3aae2994a77bac4</data>
+      <data key="d12">148</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="SCROOGE'S NIECE">
+      <data key="d8">28.0</data>
+      <data key="d9">Scrooge's niece expresses her opinions about Scrooge's wealth and behavior. Additionally, she plays the harp, which reminds Scrooge of his past and softens his heart.</data>
+      <data key="d10">4cf4deeb7f61acb7b7db4ce0e57fb1e6,bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">bb78d2d80c3a4543bffc3869f90da6f5</data>
+      <data key="d12">149</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="PHANTOM">
+      <data key="d8">27.0</data>
+      <data key="d9">Scrooge, filled with terror, glances towards the Phantom. The Phantom, representing the Ghost of Christmas Yet to Come, guides Scrooge through various scenes and visions, showing him the future.</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792,98f3970b31dfa1d7391cdaa453d6ade7,bc606176c752984da6d202275ee8c7a6,cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">89baf1317c6741a3885065ee33841d41</data>
+      <data key="d12">150</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="TOWN">
+      <data key="d8">12.0</data>
+      <data key="d9">Scrooge is observing events in the town. Additionally, Scrooge visits an obscure part of the town with the Phantom.</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792,cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">a7629606531b404bb6c707caf5756cdd</data>
+      <data key="d12">151</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="SHOP">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge and the Phantom visit Old Joe's shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">2a0b120ebf7f4f1e82297bf07ea4b355</data>
+      <data key="d12">152</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="UNHAPPY MAN">
+      <data key="d8">1.0</data>
+      <data key="d9">Scrooge is horrified by the treatment of the deceased man's belongings</data>
+      <data key="d10">bc606176c752984da6d202275ee8c7a6</data>
+      <data key="d11">a516bdc852454a8ab2e6202996550dd2</data>
+      <data key="d12">153</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="CHRISTMAS DAY">
+      <data key="d8">9.0</data>
+      <data key="d9">Scrooge wakes up on Christmas Day after his transformative experience with the spirits. Realizing it is Christmas Day, he decides to be generous.</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588,6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">e40a00ba44434b7c870b9ac308e9afd2</data>
+      <data key="d12">154</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="PAST">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge vows to honor and learn from the Past</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588</data>
+      <data key="d11">5c9f5888be054c97895fe8d70b212fa9</data>
+      <data key="d12">155</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="PRESENT">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge vows to honor and learn from the Present</data>
+      <data key="d10">0f9b4e5a7cfc0c3c89a8898a45383588</data>
+      <data key="d11">835c2c06bef64917acf64aa71d0ee1dc</data>
+      <data key="d12">156</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="CAMDEN TOWN">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge plans to send the turkey to Camden Town</data>
+      <data key="d10">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">9804b3842fbf46ab8fe3699aa1c0dda7</data>
+      <data key="d12">157</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="SCROOGE AND MARLEY">
+      <data key="d8">7.0</data>
+      <data key="d9">Scrooge works at Scrooge and Marley</data>
+      <data key="d10">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">0caa476e703d4939b1884a20f0efad26</data>
+      <data key="d12">158</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="PORTLY GENTLEMAN">
+      <data key="d8">1.0</data>
+      <data key="d9">Scrooge meets the portly gentleman and offers a generous donation</data>
+      <data key="d10">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">a89697b00dc2465084f5af58b3153372</data>
+      <data key="d12">159</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="POULTERER'S">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge asks the boy to buy a turkey from the poulterer's</data>
+      <data key="d10">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">939e4709a4754160bdfea86649293e13</data>
+      <data key="d12">160</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="BOY">
+      <data key="d8">7.0</data>
+      <data key="d9">Scrooge interacts with the boy and asks him to buy a turkey</data>
+      <data key="d10">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">df68d82405b74341abff8a40aa047ecc</data>
+      <data key="d12">161</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="JOE MILLER">
+      <data key="d8">5.0</data>
+      <data key="d9">Scrooge humorously mentions Joe Miller in the context of sending the turkey</data>
+      <data key="d10">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">ed0cf6a464fe447ea1bd0755dbd31a97</data>
+      <data key="d12">162</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="STREET-DOOR">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge waits at the street-door for the arrival of the poulterer's man</data>
+      <data key="d10">6c362d3f8d01c76d84443dcabf3f322a</data>
+      <data key="d11">084070854cf54b23a5b6abc11cf79203</data>
+      <data key="d12">163</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="NIECE">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge surprises his niece by marriage with his visit</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d11">e810306a2551453c9acea5b2bb53539d</data>
+      <data key="d12">164</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE" target="SPIRITS">
+      <data key="d8">8.0</data>
+      <data key="d9">Scrooge is visited by the Spirits, which leads to his transformation</data>
+      <data key="d10">2b5ecb7fba1301d1f3d307e194a6c435</data>
+      <data key="d11">bd929ff4386a4f8c828dc65448a5a8bb</data>
+      <data key="d12">165</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NEPHEW" target="CHRISTMAS">
+      <data key="d8">24.0</data>
+      <data key="d9">Scrooge's nephew discusses Christmas and its significance. He loves Christmas and tries to celebrate it with his uncle.</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74,bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">9a7747e4b4af45c2a23796fca578f4b6</data>
+      <data key="d12">166</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NEPHEW" target="PARLIAMENT">
+      <data key="d8">3.0</data>
+      <data key="d9">Scrooge suggests that his nephew should join Parliament due to his powerful speaking skills</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d11">2de807df290e41d2b63397e89fbe4029</data>
+      <data key="d12">167</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NEPHEW" target="NEW YEAR">
+      <data key="d8">1.0</data>
+      <data key="d9">Scrooge's nephew wishes Scrooge a Happy New Year</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d11">7b618844cfa64e59b693305db551216f</data>
+      <data key="d12">168</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NEPHEW" target="SCROOGE'S NIECE">
+      <data key="d8">9.0</data>
+      <data key="d9">Scrooge's nephew and niece are married and share opinions about Scrooge</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">1dff26de743c4d57860772ef8603c96c</data>
+      <data key="d12">169</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NEPHEW" target="TOPPER">
+      <data key="d8">12.0</data>
+      <data key="d9">Topper and Scrooge's nephew seem to have a playful understanding during the game of blind man's-buff</data>
+      <data key="d10">4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d11">6e62a3d63ac343e79f57a17cb66a2ff3</data>
+      <data key="d12">170</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NEPHEW" target="BLIND MAN'S-BUFF">
+      <data key="d8">10.0</data>
+      <data key="d9">Scrooge's nephew participates in the game of blind man's-buff</data>
+      <data key="d10">4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d11">ae1a0e37838c488da3464344454ee491</data>
+      <data key="d12">171</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CLERK" target="CHRISTMAS">
+      <data key="d8">6.0</data>
+      <data key="d9">The clerk appreciates Christmas and supports Scrooge's nephew's views</data>
+      <data key="d10">080d8e696ff38c653ca90fa086415e74</data>
+      <data key="d11">ca3ed9ef88274b63975cc01bce382f55</data>
+      <data key="d12">172</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARLEY" target="HAUNTED HOUSES">
+      <data key="d8">5.0</data>
+      <data key="d9">Marley's ghost is described in a manner similar to ghosts in haunted houses, dragging chains</data>
+      <data key="d10">e8d4072836ac08145edc2fa8c15ea2c2</data>
+      <data key="d11">6520b9083eef4904981b8992f1029db8</data>
+      <data key="d12">173</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="MASTER PETER">
+      <data key="d8">8.0</data>
+      <data key="d9">Master Peter is celebrating Christmas with his family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">56eaea0e61504c1ca6c88267b2da77c7</data>
+      <data key="d12">174</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="MISS BELINDA">
+      <data key="d8">8.0</data>
+      <data key="d9">Miss Belinda is celebrating Christmas with her family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">34f383df9d474803ac13b931ef50ccc6</data>
+      <data key="d12">175</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="MARTHA">
+      <data key="d8">8.0</data>
+      <data key="d9">Martha is celebrating Christmas with her family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">3a0d43bb3ebd4819af76efc2774e2256</data>
+      <data key="d12">176</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="TINY TIM">
+      <data key="d8">13.0</data>
+      <data key="d9">Tiny Tim is celebrating Christmas with his family. His famous line, "God bless Us, Every One!" is closely associated with Christmas.</data>
+      <data key="d10">2b5ecb7fba1301d1f3d307e194a6c435,5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">d70aef70c1b34bafa9524841c11ca0a8</data>
+      <data key="d12">177</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="DINNER">
+      <data key="d8">8.0</data>
+      <data key="d9">The dinner is part of the Cratchit family's Christmas celebration</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">f2f385c50ca94696b996107ff567d8dc</data>
+      <data key="d12">178</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="GHOST">
+      <data key="d8">8.0</data>
+      <data key="d9">The Ghost is showing Scrooge different scenes related to Christmas</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">61c771cdcf574faa9b8cc27f57ec9b99</data>
+      <data key="d12">179</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="SPIRIT">
+      <data key="d8">8.0</data>
+      <data key="d9">The Spirit is showing Scrooge different scenes related to Christmas</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">38f17f8954b6458b85432b13e1f20834</data>
+      <data key="d12">180</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="SCROOGE'S NIECE">
+      <data key="d8">8.0</data>
+      <data key="d9">Scrooge's niece discusses Christmas and its significance</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">b99ac5009689401aa57618fc929da318</data>
+      <data key="d12">181</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="SCROOGE'S NIECE'S SISTERS">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge's niece's sisters express their opinions about Scrooge during the Christmas gathering</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">3650bd1dcb40403f9ed9b687e80b3fa6</data>
+      <data key="d12">182</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="SCROOGE'S NIECE'S SISTER WITH THE LACE TUCKER">
+      <data key="d8">5.0</data>
+      <data key="d9">Scrooge's niece's sister with the lace tucker is present at the Christmas gathering</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">f4842f4c73744774b4de59ebaac583f1</data>
+      <data key="d12">183</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="SCROOGE'S NIECE'S SISTER WITH THE ROSES">
+      <data key="d8">5.0</data>
+      <data key="d9">Scrooge's niece's sister with the roses is present at the Christmas gathering</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">262b05916a0d494ca303d7de63de9920</data>
+      <data key="d12">184</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHRISTMAS" target="CITY">
+      <data key="d8">1.0</data>
+      <data key="d9">The city where Scrooge lives and becomes known for keeping Christmas well</data>
+      <data key="d10">2b5ecb7fba1301d1f3d307e194a6c435</data>
+      <data key="d11">28e3f342f83840f6926c6084025860f5</data>
+      <data key="d12">185</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="LORD MAYOR" target="MANSION HOUSE">
+      <data key="d8">16.0</data>
+      <data key="d9">The Lord Mayor oversees the Mansion House and orders his staff to keep Christmas</data>
+      <data key="d10">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d11">73fb4ab009794dd8b99ddbdf1f6f835b</data>
+      <data key="d12">186</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="POOR" target="GENTLEMAN">
+      <data key="d8">8.0</data>
+      <data key="d9">The gentleman is trying to raise funds to help the poor</data>
+      <data key="d10">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d11">6fc2d63b568f4c09a56a8ca57c36b0cd</data>
+      <data key="d12">187</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="LONDON" target="CHURCH">
+      <data key="d8">1.0</data>
+      <data key="d9">The church is located in London, where the events are taking place</data>
+      <data key="d10">0e2b719e4c97d0d8bfeb2a53f7638eb6</data>
+      <data key="d11">4c81a7dacb604e04be8eaa6cce22a737</data>
+      <data key="d12">188</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHURCH" target="TINY TIM">
+      <data key="d8">6.0</data>
+      <data key="d9">Tiny Tim attended church with Bob Cratchit</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">43a4beb5996f4b878f19525c4844b0f6</data>
+      <data key="d12">189</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST" target="VISITATION">
+      <data key="d8">1.0</data>
+      <data key="d9">The Ghost warned Scrooge of a visitation</data>
+      <data key="d10">8435b078474636a989a8c22f5493e1b6</data>
+      <data key="d11">b36ae7226cda4227a68c0b2b7b5cf926</data>
+      <data key="d12">190</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST" target="SPIRIT">
+      <data key="d8">1.0</data>
+      <data key="d9">The Ghost and the Spirit are the same entity showing Scrooge his past</data>
+      <data key="d10">d453d198afec5b284ff36024780b088c</data>
+      <data key="d11">a9965b0465764da490d9c67088516c27</data>
+      <data key="d12">191</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GHOST" target="LAMPLIGHTER">
+      <data key="d8">5.0</data>
+      <data key="d9">The lamplighter laughs as the Ghost passes by</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">f4420e227a7a464fa91879cafba3dbe1</data>
+      <data key="d12">192</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SPIRIT" target="TINY TIM">
+      <data key="d8">6.0</data>
+      <data key="d9">The Spirit blessed Tiny Tim's house and also showed Scrooge a vision of Tiny Tim's future.</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82,b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">44842db2577943819614d0b364788b0b</data>
+      <data key="d12">193</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SPIRIT" target="CHRISTMAS DAY">
+      <data key="d8">1.0</data>
+      <data key="d9">The Spirit is associated with Christmas Day</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">378cc0d933914c99a2902f180f8c5f7b</data>
+      <data key="d12">194</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SPIRIT" target="CRATCHIT'S DWELLING">
+      <data key="d8">1.0</data>
+      <data key="d9">The Spirit blessed the Cratchit dwelling</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">473847b5a10a48bc98d0948b31eed5bc</data>
+      <data key="d12">195</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SPIRIT" target="IGNORANCE">
+      <data key="d8">8.0</data>
+      <data key="d9">Ignorance is a symbolic child shown by the Spirit</data>
+      <data key="d10">98f3970b31dfa1d7391cdaa453d6ade7</data>
+      <data key="d11">0ea0ce8d3bd14c8e9c42651526f58332</data>
+      <data key="d12">196</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SPIRIT" target="WANT">
+      <data key="d8">8.0</data>
+      <data key="d9">Want is a symbolic child shown by the Spirit</data>
+      <data key="d10">98f3970b31dfa1d7391cdaa453d6ade7</data>
+      <data key="d11">a87f1698bdc24496a5ff39ce8867fc77</data>
+      <data key="d12">197</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FEZZIWIG" target="WAREHOUSE">
+      <data key="d8">1.0</data>
+      <data key="d9">Fezziwig worked at the warehouse where Scrooge was apprenticed</data>
+      <data key="d10">ce95e4fc6ee410973c040fc628dce155</data>
+      <data key="d11">422303748fa34ea8996c98e57cd317a5</data>
+      <data key="d12">198</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="FEZZIWIG" target="APPRENTICES">
+      <data key="d8">7.0</data>
+      <data key="d9">Fezziwig is praised by the apprentices for his kindness and generosity</data>
+      <data key="d10">bf29edcb41403e5af43aa101072f4fdf</data>
+      <data key="d11">40a46227e0654dc7be1c4a1252b56293</data>
+      <data key="d12">199</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="NEPHEW" target="TOPPER">
+      <data key="d8">5.0</data>
+      <data key="d9">Topper is a guest at Fred's party</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d11">5ad5cbae7d974c35b549bd57d5b8371e</data>
+      <data key="d12">200</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="NEPHEW" target="PLUMP SISTER">
+      <data key="d8">5.0</data>
+      <data key="d9">The plump sister is a guest at Fred's party</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d11">9616179174fd4605acab3ae9fda2bd67</data>
+      <data key="d12">201</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="NEPHEW" target="NIECE">
+      <data key="d8">7.0</data>
+      <data key="d9">Fred and his wife host Scrooge for dinner</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d11">7f5c89a9960044be9ee228eae8a0f7a6</data>
+      <data key="d12">202</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="GIRL" target="MATRON">
+      <data key="d8">10.0</data>
+      <data key="d9">The girl from Scrooge's past is now a matron with children</data>
+      <data key="d10">d453d198afec5b284ff36024780b088c</data>
+      <data key="d11">9f700929a5414199b90980b19cf5edf1</data>
+      <data key="d12">203</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TINY TIM" target="CRATCHIT'S DWELLING">
+      <data key="d8">9.0</data>
+      <data key="d9">Tiny Tim lives in the Cratchit dwelling</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">371ac41822d4496c88ac120f93d2c889</data>
+      <data key="d12">204</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TINY TIM" target="CHRISTMAS PRESENT">
+      <data key="d8">8.0</data>
+      <data key="d9">Tiny Tim is celebrating Christmas Present</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">b56df41cc13d4059b0b321c0c31aa926</data>
+      <data key="d12">205</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TINY TIM" target="CRATCHIT FAMILY">
+      <data key="d8">10.0</data>
+      <data key="d9">Tiny Tim is a member of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">8a87727ade6e481ab598568427489393</data>
+      <data key="d12">206</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TINY TIM" target="DINNER">
+      <data key="d8">8.0</data>
+      <data key="d9">Tiny Tim is participating in the family dinner</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">a709c222f93e4233880150f92179ecb8</data>
+      <data key="d12">207</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TINY TIM" target="CHRISTMAS DAY">
+      <data key="d8">14.0</data>
+      <data key="d9">Tiny Tim celebrates Christmas Day with his family</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">3efdf3cabd324cff8bd33946504375c9</data>
+      <data key="d12">208</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TINY TIM" target="FUTURE">
+      <data key="d8">8.0</data>
+      <data key="d9">The Ghost indicates that Tiny Tim will die if the future remains unaltered</data>
+      <data key="d10">1bdf253855a115bcf51faa63d7b07e82</data>
+      <data key="d11">c7a9c7ca562c4dbca6f843d76f915394</data>
+      <data key="d12">209</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TINY TIM" target="PETER">
+      <data key="d8">8.0</data>
+      <data key="d9">Peter is mourning the death of his sibling, Tiny Tim</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">a178e5c325b8469385933b88cc818da9</data>
+      <data key="d12">210</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TINY TIM" target="CRATCHIT'S HOUSE">
+      <data key="d8">9.0</data>
+      <data key="d9">Tiny Tim lived in Cratchit's House</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">6fd8094f080242748bd0968cb61e341d</data>
+      <data key="d12">211</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TWO YOUNG CRATCHITS" target="CRATCHIT'S DWELLING">
+      <data key="d8">9.0</data>
+      <data key="d9">The two young Cratchits live in the Cratchit dwelling</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">3b487dd703884503a146040034d688dd</data>
+      <data key="d12">212</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TWO YOUNG CRATCHITS" target="CHRISTMAS PRESENT">
+      <data key="d8">8.0</data>
+      <data key="d9">The two young Cratchits are celebrating Christmas Present</data>
+      <data key="d10">b4dec8fbe9f2a2c6a79d09c9484d15ae</data>
+      <data key="d11">73d0263088ac4f9caafb2146a922cd48</data>
+      <data key="d12">213</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MASTER PETER" target="MISS BELINDA">
+      <data key="d8">5.0</data>
+      <data key="d9">Master Peter and Miss Belinda are siblings and part of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">fa8230e763964d61b5d262e28131a4d7</data>
+      <data key="d12">214</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MASTER PETER" target="MARTHA">
+      <data key="d8">5.0</data>
+      <data key="d9">Master Peter and Martha are siblings and part of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">5a1dedbed2034224af49e7715fcef04a</data>
+      <data key="d12">215</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MASTER PETER" target="CRATCHIT FAMILY">
+      <data key="d8">10.0</data>
+      <data key="d9">Master Peter is a member of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">f1b2cb45d5ee4710870dcfa90c46fa41</data>
+      <data key="d12">216</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MASTER PETER" target="DINNER">
+      <data key="d8">8.0</data>
+      <data key="d9">Master Peter is participating in the family dinner</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">b3cb91bf24234b149bff5a522598c855</data>
+      <data key="d12">217</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MISS BELINDA" target="MARTHA">
+      <data key="d8">1.0</data>
+      <data key="d9">Miss Belinda and Martha are siblings and part of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">a6bc0d97bf6d4c8a99a19324747807ed</data>
+      <data key="d12">218</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MISS BELINDA" target="CRATCHIT FAMILY">
+      <data key="d8">10.0</data>
+      <data key="d9">Miss Belinda is a member of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">172a0560371548e5b2729320fa7986ca</data>
+      <data key="d12">219</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MISS BELINDA" target="DINNER">
+      <data key="d8">8.0</data>
+      <data key="d9">Miss Belinda is participating in the family dinner</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">436a148148094d189d13a7abbce4c75e</data>
+      <data key="d12">220</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARTHA" target="CRATCHIT FAMILY">
+      <data key="d8">10.0</data>
+      <data key="d9">Martha is a member of the Cratchit family</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">703b6c5d205540eb8a8d7826f4ca8894</data>
+      <data key="d12">221</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MARTHA" target="DINNER">
+      <data key="d8">1.0</data>
+      <data key="d9">Martha is participating in the family dinner</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">d861f22f3688457bbdbf83e69cd9ef33</data>
+      <data key="d12">222</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="DINNER" target="CRATCHIT FAMILY">
+      <data key="d8">9.0</data>
+      <data key="d9">The Cratchit family is celebrating Christmas with a special dinner</data>
+      <data key="d10">5d70b47bf7167b7586f47fcc4355a746</data>
+      <data key="d11">b5a23e707c0341a4a707e2885b9266a6</data>
+      <data key="d12">223</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MOOR" target="MINERS">
+      <data key="d8">14.0</data>
+      <data key="d9">Miners live and work on the moor</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">e8aa345d285b4f91ae6908a98cef1df4</data>
+      <data key="d12">224</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MOOR" target="HUT">
+      <data key="d8">6.0</data>
+      <data key="d9">The hut is located on the moor</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">d853ca820e7e406e87ae9bb3d4f00989</data>
+      <data key="d12">225</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="LIGHTHOUSE" target="SEA">
+      <data key="d8">7.0</data>
+      <data key="d9">The lighthouse is built on a reef of sunken rocks in the sea</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">fd2f5ff040b74e55ab1d33c05c2a7b3c</data>
+      <data key="d12">226</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="LIGHTHOUSE" target="TWO MEN">
+      <data key="d8">7.0</data>
+      <data key="d9">Two men are watching the light in the lighthouse and celebrating Christmas</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">3cea8dc34ae6426d9d7faff2617f1740</data>
+      <data key="d12">227</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SHIP" target="SEA">
+      <data key="d8">1.0</data>
+      <data key="d9">The ship is far away from any shore, in the sea</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">07b0ee122d884f838d1992a1147218f8</data>
+      <data key="d12">228</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SHIP" target="CREW">
+      <data key="d8">7.0</data>
+      <data key="d9">The crew is on the ship celebrating Christmas</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">70d902ee8c0c411a87b16145d1576f27</data>
+      <data key="d12">229</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="HUT" target="OLD MAN">
+      <data key="d8">7.0</data>
+      <data key="d9">The old man is in the hut singing a Christmas song</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">b67675a2d60244a591be0b0f052772eb</data>
+      <data key="d12">230</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="HUT" target="FAMILY">
+      <data key="d8">7.0</data>
+      <data key="d9">The family is assembled in the hut on the moor</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">56aa592e0f104f4fbe6692dacc26a26c</data>
+      <data key="d12">231</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="OLD MAN" target="FAMILY">
+      <data key="d8">8.0</data>
+      <data key="d9">The old man is singing a Christmas song to his family</data>
+      <data key="d10">999c9887098d1a25dc3b42a8da7ddc8c</data>
+      <data key="d11">1ff0793c5118411781b3af7e4f60e0a8</data>
+      <data key="d12">232</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NIECE" target="FORFEITS">
+      <data key="d8">10.0</data>
+      <data key="d9">Scrooge's niece participates in the game of forfeits</data>
+      <data key="d10">4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d11">7d53eab10dfe472494fc85bca1bf8e62</data>
+      <data key="d12">233</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NIECE" target="HOW, WHEN, AND WHERE">
+      <data key="d8">6.0</data>
+      <data key="d9">Scrooge's niece excels in the game of How, When, and Where</data>
+      <data key="d10">4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d11">fb4c362a483e430188ef91db74fab377</data>
+      <data key="d12">234</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TOPPER" target="SCROOGE'S NIECE'S SISTER">
+      <data key="d8">6.0</data>
+      <data key="d9">Topper has his eye on Scrooge's niece's sister and comments on housekeepers</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">eb77434625244f138910f88637956746</data>
+      <data key="d12">235</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TOPPER" target="SCROOGE'S NIECE'S SISTER WITH THE LACE TUCKER">
+      <data key="d8">6.0</data>
+      <data key="d9">Topper has his eye on Scrooge's niece's sister with the lace tucker and comments on housekeepers</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">51a897c16e5140b48704183339fc513e</data>
+      <data key="d12">236</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TOPPER" target="PLUMP SISTER">
+      <data key="d8">6.0</data>
+      <data key="d9">Topper pursues the plump sister during the game of blind man's-buff</data>
+      <data key="d10">4cf4deeb7f61acb7b7db4ce0e57fb1e6</data>
+      <data key="d11">19d5054f450d4855b639e30a93e988bb</data>
+      <data key="d12">237</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="TOPPER" target="NIECE">
+      <data key="d8">5.0</data>
+      <data key="d9">Topper is a guest at Fred's party</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d11">3b7eaf9a364e44c98733080508278c9a</data>
+      <data key="d12">238</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SCROOGE'S NIECE'S SISTER WITH THE LACE TUCKER" target="SCROOGE'S NIECE'S SISTER WITH THE ROSES">
+      <data key="d8">1.0</data>
+      <data key="d9">Both are sisters of Scrooge's niece and present at the Christmas gathering</data>
+      <data key="d10">bc5fde5d1e00a3ecc1e548c8d24f1c1f</data>
+      <data key="d11">5dd5a052a01f45c3a5190e7d25967e91</data>
+      <data key="d12">239</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PLUMP SISTER" target="NIECE">
+      <data key="d8">1.0</data>
+      <data key="d9">The plump sister is a guest at Fred's party</data>
+      <data key="d10">04e5c071e4ee5496d5380662e1339f45</data>
+      <data key="d11">30111f3cf83d4d7a88450ea8efd454e6</data>
+      <data key="d12">240</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PHANTOM" target="TOWN">
+      <data key="d8">1.0</data>
+      <data key="d9">The Phantom is guiding Scrooge through the town</data>
+      <data key="d10">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">83e9d1595cf24f31a86c055da2d89ce5</data>
+      <data key="d12">241</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="OLD JOE" target="SHOP">
+      <data key="d8">9.0</data>
+      <data key="d9">Old Joe runs the shop dealing in old and discarded items</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">47786b7d90df483d95b6ec207029ebb0</data>
+      <data key="d12">242</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="OLD JOE" target="LAUNDRESS">
+      <data key="d8">6.0</data>
+      <data key="d9">The laundress interacts with Old Joe in his shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">61ad5d54c7d246dea0279c019e34289c</data>
+      <data key="d12">243</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="OLD JOE" target="UNDERTAKER'S MAN">
+      <data key="d8">6.0</data>
+      <data key="d9">The undertaker's man interacts with Old Joe in his shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">51137d35b6d94eb682c937bf710e2125</data>
+      <data key="d12">244</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="OLD JOE" target="CHARWOMAN">
+      <data key="d8">6.0</data>
+      <data key="d9">The charwoman interacts with Old Joe in his shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">f66c468d7a9942f78febda58bc0d73aa</data>
+      <data key="d12">245</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="LAUNDRESS" target="UNDERTAKER'S MAN">
+      <data key="d8">1.0</data>
+      <data key="d9">The laundress and the undertaker's man meet in Old Joe's shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">cbebbf963e59417886e3d63cac943c22</data>
+      <data key="d12">246</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="LAUNDRESS" target="CHARWOMAN">
+      <data key="d8">5.0</data>
+      <data key="d9">The charwoman and the laundress meet in Old Joe's shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">1fa24368174a4b559a456aeeea4d541b</data>
+      <data key="d12">247</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="LAUNDRESS" target="DEAD MAN">
+      <data key="d8">4.0</data>
+      <data key="d9">The laundress discusses the dead man's belongings and his life</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">0e13e8f7efb64b0b8c50c5056ae9cdc8</data>
+      <data key="d12">248</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="UNDERTAKER'S MAN" target="CHARWOMAN">
+      <data key="d8">5.0</data>
+      <data key="d9">The charwoman and the undertaker's man meet in Old Joe's shop</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">50a4e286ac794359868fe58ec07bdb14</data>
+      <data key="d12">249</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="UNDERTAKER'S MAN" target="DEAD MAN">
+      <data key="d8">1.0</data>
+      <data key="d9">The undertaker's man discusses the dead man's belongings and his life</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">2e6bb4e7cc75409996854892e0d9e27e</data>
+      <data key="d12">250</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="DEAD MAN" target="CHARWOMAN">
+      <data key="d8">4.0</data>
+      <data key="d9">The charwoman discusses the dead man's belongings and his life</data>
+      <data key="d10">1cb66ea16e5e4f2816f0e188d3acc792</data>
+      <data key="d11">7736facda2c548d7bbb5ad72c5a1684d</data>
+      <data key="d12">251</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="UNHAPPY MAN" target="WOMAN">
+      <data key="d8">8.0</data>
+      <data key="d9">The woman took bed-curtains and other items from the deceased man</data>
+      <data key="d10">bc606176c752984da6d202275ee8c7a6</data>
+      <data key="d11">c9c21b5391b54370b1edbd844be9d36e</data>
+      <data key="d12">252</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CAROLINE'S HUSBAND" target="DEATH">
+      <data key="d8">1.0</data>
+      <data key="d9">Caroline's husband brings the news of the creditor's death</data>
+      <data key="d10">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">5cd7227b6a7b4bff99bc0bf755ce56f8</data>
+      <data key="d12">253</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="CHILDREN" target="MOTHER">
+      <data key="d8">6.0</data>
+      <data key="d9">The mother is anxiously waiting while her children play</data>
+      <data key="d10">cd8a47ace09b9cee1e8b27b0689f2822</data>
+      <data key="d11">e06bee2224394e438093e9577702caba</data>
+      <data key="d12">254</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PETER" target="CRATCHIT'S HOUSE">
+      <data key="d8">9.0</data>
+      <data key="d9">Peter lives in Cratchit's House</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">05770dae02b6417b8581a5aa4ca8daa4</data>
+      <data key="d12">255</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="MR. SCROOGE'S NEPHEW" target="MR. SCROOGE">
+      <data key="d8">1.0</data>
+      <data key="d9">Mr. Scrooge's nephew is related to Mr. Scrooge</data>
+      <data key="d10">f40e4b274b5e1a25afbff9ecb733e1f4</data>
+      <data key="d11">2206843c5090479999fb306ab8a7d870</data>
+      <data key="d12">256</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION" target="PROJECT GUTENBERG LICENSE">
+      <data key="d8">7.0</data>
+      <data key="d9">The Project Gutenberg Literary Archive Foundation enforces the Project Gutenberg License</data>
+      <data key="d10">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d11">c06ac3c1757d40ccb93b7188b4318732</data>
+      <data key="d12">257</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION" target="COPYRIGHT HOLDER">
+      <data key="d8">6.0</data>
+      <data key="d9">The Project Gutenberg Literary Archive Foundation may require permission from the copyright holder for certain uses of Project Gutenberg works</data>
+      <data key="d10">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d11">eeb43e24e3574d80aa53fac14686291c</data>
+      <data key="d12">258</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION" target="PROJECT GUTENBERG&#8482; TRADEMARK">
+      <data key="d8">1.0</data>
+      <data key="d9">The Project Gutenberg Literary Archive Foundation owns the Project Gutenberg&#8482; trademark</data>
+      <data key="d10">aa8d2310a206001404282ddb3fd645aa</data>
+      <data key="d11">bd5693f980354de3bf9512b5c52511ec</data>
+      <data key="d12">259</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION" target="SALT LAKE CITY">
+      <data key="d8">5.0</data>
+      <data key="d9">Salt Lake City is the location of the business office of the Project Gutenberg Literary Archive Foundation.</data>
+      <data key="d10">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">2969e876570c4a50bbd9d89215ae36f2</data>
+      <data key="d12">260</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION" target="MISSISSIPPI">
+      <data key="d8">1.0</data>
+      <data key="d9">The Project Gutenberg Literary Archive Foundation is organized under the laws of the state of Mississippi.</data>
+      <data key="d10">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">877ff5bee2e64870be41e63a7b3a255f</data>
+      <data key="d12">261</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION" target="INTERNAL REVENUE SERVICE">
+      <data key="d8">7.0</data>
+      <data key="d9">The Internal Revenue Service granted tax-exempt status to the Project Gutenberg Literary Archive Foundation.</data>
+      <data key="d10">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">c475e44d26c94da59b9c14642013ee19</data>
+      <data key="d12">262</data>
+      <data key="d13">2</data>
+    </edge>
+    <edge source="SALT LAKE CITY" target="UTAH">
+      <data key="d8">5.0</data>
+      <data key="d9">Salt Lake City is located in the state of Utah.</data>
+      <data key="d10">cd4234ed6caba8f15d09a2e3ee604b2a</data>
+      <data key="d11">0b1f24a56ebe493e9c72f9a571c737e2</data>
+      <data key="d12">263</data>
+      <data key="d13">2</data>
+    </edge>
+  </graph>
+</graphml>
