@@ -1,0 +1,1730 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="KPMG">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">KPMG is a global organization of independent member firms providing audit, tax, and advisory services. These member firms are affiliated with KPMG International Limited, a private English company limited by guarantee.</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a,a7f9119f5ac69a2139759b07351bd766,b06e992294d2f5ec93702a48b2ab8fa8,cc48e6353ac5108fa6007c7df4ffd0ac,eb25e4b7610b85ca1acf9e9f63dfa43a,eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">7</data>
+      <data key="d6">0</data>
+      <data key="d7">d9f949289c444595ac53384abc2648f0</data>
+    </node>
+    <node id="INDIA UNION BUDGET 2022-23">
+      <data key="d0">EVENT</data>
+      <data key="d1">The India Union Budget 2022-23, presented by the Finance Minister of India, Ms. Nirmala Sitharaman, outlines the economic and fiscal policies for the fiscal year 2022-23. This comprehensive budget focuses on the economy of a resurgent India and includes various tax regulations and incentives. Key changes in effective customs duty and duty rates for various commodities, including specific electronic goods, are also highlighted. The budget aims to drive economic growth and development through well-defined economic and tax policies.</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a,18ce30b13dbaf5320cf649866f91ed54,2abb040221acc57e448e53bafa2f319a,7e835c9b975fe216a56a9dd472d9e093,8e91df1b3e1efdc2df4557d976b24af5,a7f9119f5ac69a2139759b07351bd766,a8a0d92cabc92524a783dd2c7dd35d16,b06e992294d2f5ec93702a48b2ab8fa8,cc48e6353ac5108fa6007c7df4ffd0ac,cf9c29a8e8bc1c7900f71fd713f95892,eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">54</data>
+      <data key="d6">1</data>
+      <data key="d7">31dfa82b3c984edcb60b9ab3b5dbcf86</data>
+    </node>
+    <node id="NIRMALA SITHARAMAN">
+      <data key="d0">PERSON</data>
+      <data key="d1">Nirmala Sitharaman is the Finance Minister of India who presented the Union Budget for 2022-23</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">9d50bf6ac59b4609bc622713d4b28c52</data>
+    </node>
+    <node id="INDIA">
+      <data key="d0">GEO</data>
+      <data key="d1">India is a country in South Asia where the Union Budget for 2022-23 was announced, presented, and is currently being discussed and implemented. The tax regulations and incentives outlined in this budget are applicable to India.</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a,18ce30b13dbaf5320cf649866f91ed54,2abb040221acc57e448e53bafa2f319a,7e835c9b975fe216a56a9dd472d9e093,8e91df1b3e1efdc2df4557d976b24af5,a7f9119f5ac69a2139759b07351bd766,a8a0d92cabc92524a783dd2c7dd35d16,b06e992294d2f5ec93702a48b2ab8fa8,cc48e6353ac5108fa6007c7df4ffd0ac,cf9c29a8e8bc1c7900f71fd713f95892,eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">3</data>
+      <data key="d7">a9d3a6e2d4784dc78de9d5aed9d7e3d2</data>
+    </node>
+    <node id="COVID-19">
+      <data key="d0">EVENT</data>
+      <data key="d1">The COVID-19 pandemic influenced tax concessions and relief measures in the Union Budget 2022-23.</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8,cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">4</data>
+      <data key="d7">bef65dbb44574b60ba6d507b066618d8</data>
+    </node>
+    <node id="SPECIAL ECONOMIC ZONE (SEZ) LAW">
+      <data key="d0">EVENT</data>
+      <data key="d1">The replacement of the Special Economic Zone (SEZ) law was one of the policy announcements in the Union Budget 2022-23</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">4323f5303e4a447d8a8ebfe4d4798413</data>
+    </node>
+    <node id="GLOBAL BASE EROSION AND PROFIT SHIFTING (BEPS) 2.0">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Global Base Erosion and Profit Shifting (BEPS) 2.0 proposals were not addressed in the Union Budget 2022-23</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">6</data>
+      <data key="d7">44ca64b75ca44cb2b65e9293afe5516c</data>
+    </node>
+    <node id="INTERNATIONAL FINANCIAL SERVICES CENTRE (IFSC)">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The International Financial Services Centre (IFSC) units received expanded incentives in the Union Budget 2022-23</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">c27b9b00fd624566827abdb01ea69e5f</data>
+    </node>
+    <node id="ASSOCIATIONS OF PERSONS (AOP)">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Union Budget 2022-23 proposed rationalization of the rates of surcharge applicable to Associations of Persons (AOP)</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">0905afb29883400bb6fbe2ed84b696bd</data>
+    </node>
+    <node id="FINANCE BILL">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Finance Bill covers a wide range of issues including taxation of crypto assets and extensions for tax holidays</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">9</data>
+      <data key="d7">16052a47d9ec4dafbeab1cc367892345</data>
+    </node>
+    <node id="TAX DEDUCTED AT SOURCE (TDS)">
+      <data key="d0">EVENT</data>
+      <data key="d1">The ambit of Tax Deducted at Source (TDS) provisions was expanded and tightened in the Union Budget 2022-23</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">d6f47a9fe214405786a4a96aca0bb612</data>
+    </node>
+    <node id="TAX COLLECTED AT SOURCE (TCS)">
+      <data key="d0">EVENT</data>
+      <data key="d1">The ambit of Tax Collected at Source (TCS) provisions was expanded and tightened in the Union Budget 2022-23</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">87f94a23381945f6a732873c28df41ad</data>
+    </node>
+    <node id="VIRTUAL DIGITAL ASSETS (VDA)">
+      <data key="d0">EVENT</data>
+      <data key="d1">A regime to tax Virtual Digital Assets (VDA) was introduced in the Union Budget 2022-23</data>
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">12</data>
+      <data key="d7">bb307f62c2834e1fab5706f6c67db77b</data>
+    </node>
+    <node id="GROSS DOMESTIC PRODUCT (GDP)">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">1b36f17290ac46e4be710d9344e3a33d</data>
+    </node>
+    <node id="KPMG ASSURANCE AND CONSULTING SERVICES LLP">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">KPMG Assurance and Consulting Services LLP is an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee.</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54,2abb040221acc57e448e53bafa2f319a,7e835c9b975fe216a56a9dd472d9e093,8e91df1b3e1efdc2df4557d976b24af5,a8a0d92cabc92524a783dd2c7dd35d16,cc48e6353ac5108fa6007c7df4ffd0ac,cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">14</data>
+      <data key="d7">feb2fe52ec20461fb568084e63f79866</data>
+    </node>
+    <node id="KPMG INTERNATIONAL LIMITED">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">KPMG International Limited is a private English company limited by guarantee. It is affiliated with KPMG Assurance and Consulting Services LLP.</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a,18ce30b13dbaf5320cf649866f91ed54,2abb040221acc57e448e53bafa2f319a,7e835c9b975fe216a56a9dd472d9e093,8e91df1b3e1efdc2df4557d976b24af5,a7f9119f5ac69a2139759b07351bd766,a8a0d92cabc92524a783dd2c7dd35d16,cc48e6353ac5108fa6007c7df4ffd0ac,cf9c29a8e8bc1c7900f71fd713f95892,eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">15</data>
+      <data key="d7">13d3f45973a54d679be7cef06bb6a511</data>
+    </node>
+    <node id="VIRTUAL DIGITAL ASSETS">
+      <data key="d0">EVENT</data>
+      <data key="d1">A regime to tax virtual digital assets, including crypto-assets, NFTs, and other digital assets, introduced in the India Union Budget 2022-23</data>
+      <data key="d2">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">16</data>
+      <data key="d7">8f87f38964684f29903485f1c27ede3b</data>
+    </node>
+    <node id="FOREIGN EXCHANGE MANAGEMENT ACT, 1999 (FEMA)">
+      <data key="d0">EVENT</data>
+      <data key="d1">An act that excludes currencies from the definition of virtual digital assets</data>
+      <data key="d2">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">702a92073fd8472883c1dc4ee19a9ccb</data>
+    </node>
+    <node id="NPS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">National Pension System, for which the employer's contribution deduction has been increased</data>
+      <data key="d2">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">9e443da15b62400fae8389dce6fe2ef7</data>
+    </node>
+    <node id="STATE GOVERNMENT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Government employees who benefit from the increased deduction for employer's contribution to NPS</data>
+      <data key="d2">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">93020c872f50491aa6fcb14d54ba8ccc</data>
+    </node>
+    <node id="START-UPS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Eligible start-ups for claiming tax holiday, with the date of incorporation extended by one more year</data>
+      <data key="d2">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">20</data>
+      <data key="d7">785854c957a24e38817eec6ca323f38b</data>
+    </node>
+    <node id="IFSC">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">International Financial Services Centre, which is involved in managing portfolios and providing tax incentives</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">2</data>
+      <data key="d6">21</data>
+      <data key="d7">ee2dbf98da954341b05c2bf60c9d751e</data>
+    </node>
+    <node id="AIF">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Alternative Investment Fund, which is regulated under the IFSC Act and involved in tax-related provisions</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">22</data>
+      <data key="d7">485a179cb2044a1080ff641a74c59557</data>
+    </node>
+    <node id="INFRASTRUCTURE INVESTMENT TRUST">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A trust involved in infrastructure investments, subject to bonus stripping and dividend stripping provisions</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">23</data>
+      <data key="d7">d7687cf6f0e243a48dd1315f0352ef89</data>
+    </node>
+    <node id="REAL ESTATE INVESTMENT TRUST">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A trust involved in real estate investments, subject to bonus stripping and dividend stripping provisions</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">24</data>
+      <data key="d7">9d67ef6316f1445d927e9df8d64c7dbb</data>
+    </node>
+    <node id="OFFSHORE BANKING UNIT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A banking unit in the IFSC eligible for tax exemptions on income from transfer of offshore derivative instruments or over-the-counter derivatives</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">25</data>
+      <data key="d7">de92d54f2f364e9bb0c7a2289a16eb96</data>
+    </node>
+    <node id="INCOME TAX APPELLATE TRIBUNAL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A tribunal where the tax department may file appeals</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">4b806447c3624827acc39a32ade0911f</data>
+    </node>
+    <node id="HIGH COURT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A court where the tax department may file appeals</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">2</data>
+      <data key="d6">27</data>
+      <data key="d7">9843614f66824ffd94da44729a01e55a</data>
+    </node>
+    <node id="SUPREME COURT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The highest court where the tax department may file appeals</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">65ce69a42e7d40a88e36074f391cc36f</data>
+    </node>
+    <node id="NATIONAL FACELESS ASSESSMENT CENTRE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A center coordinating the faceless assessment scheme involving different units</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">4</data>
+      <data key="d6">29</data>
+      <data key="d7">4071f0b37b7a4d8194f9f710a0679bf8</data>
+    </node>
+    <node id="PR. COMMISSIONER">
+      <data key="d0">PERSON</data>
+      <data key="d1">A senior official involved in deciding on adopting certain tax procedures</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">30</data>
+      <data key="d7">0288384e463a4e658226083e594e5dfe</data>
+    </node>
+    <node id="CHIEF COMMISSIONER">
+      <data key="d0">PERSON</data>
+      <data key="d1">A senior official involved in deciding on adopting certain tax procedures</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">d84c92cd58ab4f63be15576cf5aeff93</data>
+    </node>
+    <node id="HINDU UNDIVIDED FAMILY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A legal term related to family taxation in India</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">32</data>
+      <data key="d7">f52a1ea5f4f64e5cb8e1b1632743052d</data>
+    </node>
+    <node id="BODY OF INDIVIDUALS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A group of individuals considered as a single entity for tax purposes in India</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">33</data>
+      <data key="d7">878322eea9ca4733ae598708fb19c4b6</data>
+    </node>
+    <node id="ALTERNATIVE MINIMUM TAX">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A tax rate applicable to co-operative societies, reduced from 18.5 percent to 15 percent</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">34</data>
+      <data key="d7">1cc7975ebdd24ed6b17167db9f99d449</data>
+    </node>
+    <node id="CO-OPERATIVE SOCIETIES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Organizations subject to the Alternative Minimum Tax rate</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">35</data>
+      <data key="d7">9ccdd62ac0f848a18912c43208595bff</data>
+    </node>
+    <node id="MERGERS &amp; ACQUISITIONS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Business activities involving amalgamation, merger, or demerger</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">36</data>
+      <data key="d7">f075ea70b9924ebbaa56da368b0870c6</data>
+    </node>
+    <node id="TAX DEPARTMENT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The department responsible for tax assessment and reassessment in India</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">3</data>
+      <data key="d6">37</data>
+      <data key="d7">4409b6b8d5374c26a2b0c9f6fc8face0</data>
+    </node>
+    <node id="ASSESSING OFFICER">
+      <data key="d0">PERSON</data>
+      <data key="d1">An official responsible for tax reassessment based on various information sources</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">92125210fc1f4e3690918fc5c6b1eda9</data>
+    </node>
+    <node id="INTERNATIONAL TAXATION MATTERS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Tax matters involving international transactions and treaties</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">39</data>
+      <data key="d7">0f11c90a6ede47709c6e311a881d944c</data>
+    </node>
+    <node id="TREATY NETWORK">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A network of treaties providing information for tax reassessment</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">40</data>
+      <data key="d7">0af059517c6e48c1828cbbc7300a05b7</data>
+    </node>
+    <node id="AUDIT OBJECTION">
+      <data key="d0">EVENT</data>
+      <data key="d1">An event where an audit raises objections leading to tax reassessment</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">450f472671b147cea83394b403bff021</data>
+    </node>
+    <node id="FACILESS ASSESSMENT SCHEME">
+      <data key="d0">EVENT</data>
+      <data key="d1">A scheme for conducting tax assessments without face-to-face interactions</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">42</data>
+      <data key="d7">083c7918ddd94d0d8010478f9fe16d08</data>
+    </node>
+    <node id="VIDEO CONFERENCING">
+      <data key="d0">EVENT</data>
+      <data key="d1">A method allowed for personal hearings under the Faceless Assessment Scheme</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">3be74bd0390549cdbec2740c5ede765c</data>
+    </node>
+    <node id="CHIEF COMMISSIONERS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Senior officials involved in deciding on adopting certain tax procedures</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">001aaa622b9140e2bb7f0e0dce716116</data>
+    </node>
+    <node id="PR. COMMISSIONERS">
+      <data key="d0">PERSON</data>
+      <data key="d1">Senior officials involved in deciding on adopting certain tax procedures</data>
+      <data key="d2">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d5">1</data>
+      <data key="d6">45</data>
+      <data key="d7">6257135ad1cd4c6ab55e3846ee7bb4a3</data>
+    </node>
+    <node id="ECONOMY OF THE RESURGENT INDIA">
+      <data key="d0" />
+      <data key="d1">The Economy of the Resurgent India refers to the economic policies and growth strategies outlined in the India Union Budget 2022-23. This encompasses the economic state and policies of India as detailed in the Union Budget 2022-23, highlighting the nation's approach to fostering economic growth and development.</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a,18ce30b13dbaf5320cf649866f91ed54,7e835c9b975fe216a56a9dd472d9e093,8e91df1b3e1efdc2df4557d976b24af5,a7f9119f5ac69a2139759b07351bd766,cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">c4168ab7c16d4b6cbfb9c0a08e8dfce6</data>
+    </node>
+    <node id="TDS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Tax Deducted at Source, a means of collecting income tax in India</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">47</data>
+      <data key="d7">30c29d17c8bf40bbaafdb17ab3860dee</data>
+    </node>
+    <node id="CIT(A)">
+      <data key="d0">PERSON</data>
+      <data key="d1">Commissioner of Income-tax (Appeal) who has powers to initiate penalty proceedings under certain cases</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">3fd52c389b9a414f8df84b123e13ac59</data>
+    </node>
+    <node id="AO">
+      <data key="d0">PERSON</data>
+      <data key="d1">Assessing Officer responsible for giving effect to the order of the Dispute Resolution Committee</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d5">2</data>
+      <data key="d6">49</data>
+      <data key="d7">d7394880313b42dbb8cdcf519991488b</data>
+    </node>
+    <node id="DISPUTE RESOLUTION COMMITTEE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">A committee responsible for resolving tax disputes in India</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de8068f212de455295faeb076a829bd4</data>
+    </node>
+    <node id="PUBLIC SECTOR COMPANIES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Companies owned by the government in India</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">49bfab0dbe2945a09ab40ad35f519dba</data>
+    </node>
+    <node id="GSTR 1">
+      <data key="d0">EVENT</data>
+      <data key="d1">A return form for reporting details of outward supplies of goods and services</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d5">3</data>
+      <data key="d6">52</data>
+      <data key="d7">c681323d9277472f8e2320f43a860bd8</data>
+    </node>
+    <node id="GSTR 3B">
+      <data key="d0">EVENT</data>
+      <data key="d1">A return form for summarizing the details of outward supplies, inward supplies, and input tax credit</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">3328aa55ce884adcaed0035df7dfe474</data>
+    </node>
+    <node id="INPUT TAX CREDIT">
+      <data key="d0">EVENT</data>
+      <data key="d1">A mechanism to avoid cascading of taxes by allowing credit of taxes paid on inputs</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">06493c4b45194376870b350c1f5c2444</data>
+    </node>
+    <node id="TCS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Tax Collected at Source, a means of collecting tax by sellers from buyers</data>
+      <data key="d2">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">4c80c571242b4872acc3222f735d5f47</data>
+    </node>
+    <node id="CENTRAL BOARD OF INDIRECT TAXES &amp; CUSTOMS (CBIC)">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Central Board of Indirect Taxes &amp; Customs (CBIC) is a part of the Department of Revenue under the Ministry of Finance, Government of India, responsible for administering Customs, GST, Central Excise, Service Tax &amp; Narcotics in India</data>
+      <data key="d2">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">56</data>
+      <data key="d7">e80eb2b032614b00a514453c7eeb59de</data>
+    </node>
+    <node id="CUSTOMS ACT, 1962">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Customs Act, 1962 is an act of the Parliament of India that provides for the regulation of import and export duties and other related matters</data>
+      <data key="d2">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">57</data>
+      <data key="d7">5c127dd4358842dda2908a56ce2d4ab1</data>
+    </node>
+    <node id="CUSTOMS TARIFF ACT, 1975">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Customs Tariff Act, 1975 is a legislative act of the Parliament of India that governs tariff and duty rates. This act provides for the imposition of duties on both imports and exports, thereby regulating the trade and ensuring the proper collection of tariffs.</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a,7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">58</data>
+      <data key="d7">326e1495b0d04b9a8525f45e726d5c92</data>
+    </node>
+    <node id="CGST">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">CGST stands for Central Goods and Services Tax, a tax levied by the central government of India</data>
+      <data key="d2">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">872c61fd58554ac88215bcebdb1f4de5</data>
+    </node>
+    <node id="IGST">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">IGST stands for Integrated Goods and Services Tax, a tax levied on inter-state supplies of goods and services in India</data>
+      <data key="d2">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">93466699205d4f2a84e389db763e03ac</data>
+    </node>
+    <node id="SEZ">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">SEZ stands for Special Economic Zone, a designated area in countries that possess special economic regulations that are different from other areas in the same country</data>
+      <data key="d2">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">549840a2cfee4882a9d9624f214d0d65</data>
+    </node>
+    <node id="CUSTOMS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Customs refers to the authority or agency in a country responsible for collecting tariffs and for controlling the flow of goods into and out of a country</data>
+      <data key="d2">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">62</data>
+      <data key="d7">9d4c45d15ecd40d4a6492b0fab2a1701</data>
+    </node>
+    <node id="CUSTOMS (IMPORT OF GOODS AT CONCESSIONAL RATE OF DUTY) RULES, 2022">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Customs (Import of Goods at Concessional Rate of Duty) Rules, 2022 are regulations that govern the import of goods at concessional rates in India</data>
+      <data key="d2">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">63</data>
+      <data key="d7">38aae9ba52554bf7a5b874a1ffc95ee1</data>
+    </node>
+    <node id="GEMS AND JEWELLERY SECTOR">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Gems and Jewellery Sector is an industry sector affected by the changes in tariff duty rates in the India Union Budget 2022-23</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">64</data>
+      <data key="d7">febbf3b87d29421db470ddb4ff2d0329</data>
+    </node>
+    <node id="ELECTRICAL AND ELECTRONIC SECTOR">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Electrical and Electronic Sector is an industry sector affected by the changes in tariff duty rates in the India Union Budget 2022-23</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">20688a6d2ae44cfe8e5b6fccbb9217c6</data>
+    </node>
+    <node id="SOLAR ENERGY SECTOR">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Solar Energy Sector is an industry sector affected by the changes in tariff duty rates in the India Union Budget 2022-23</data>
+      <data key="d2">0316c100c16aa4d57e15b9e4fa09444a</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">66</data>
+      <data key="d7">48fbb530533846deaf71b39f5404a0bf</data>
+    </node>
+    <node id="ACETIC ACID">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Acetic acid is a chemical listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">a6cdb525e31745a6b12c9c699b89162c</data>
+    </node>
+    <node id="PILE FABRICS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Pile fabrics, other than long-pile fabrics or looped pile fabrics, of man-made fiber, are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">0502a1bb69244570a156dc814bdf315f</data>
+    </node>
+    <node id="MEN'S OR BOYS' OVERCOATS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Men's or boys' overcoats, car coats, capes, etc., of cotton, are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">880b4b1ab3f04841b6ecfde1ee21e49e</data>
+    </node>
+    <node id="MEN'S SUITS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Men's suits of silk or of artificial fiber are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">9953c8e64b9b430b9d00b92362ed7dba</data>
+    </node>
+    <node id="WOMEN'S SUITS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Women's suits of other textile materials are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">12aebeabf85a4de4828e516cdc8bea19</data>
+    </node>
+    <node id="WOMEN'S TROUSERS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Women's trousers, bib and brace overalls, breeches, and shorts, of cotton or synthetic fiber, are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">72</data>
+      <data key="d7">a060733c68c7475e8269daea45d58c32</data>
+    </node>
+    <node id="MEN'S OR BOYS' OVERCOATS OF MAN-MADE FIBERS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Men's or boys' overcoats, car coats, capes, etc., of man-made fibers, are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">d317f4c19410439280c198a35eda814c</data>
+    </node>
+    <node id="WOMEN'S OR GIRLS' OVERCOATS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Women's or girls' overcoats, car coats, raincoats, etc., of cotton, are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">74</data>
+      <data key="d7">8cfba91c542a42dbbebd397995957809</data>
+    </node>
+    <node id="MEN'S SUITS OF WOOL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Men's suits of wool or fine animal hair are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">75</data>
+      <data key="d7">4deb381e602b4d75abcc8356d3b9859a</data>
+    </node>
+    <node id="MEN'S SUITS OF SYNTHETIC FIBERS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Men's suits of synthetic fibers are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">76</data>
+      <data key="d7">0cf559dabaae4cdb8eab8f86a6dfc5ab</data>
+    </node>
+    <node id="FERROUS WASTE AND SCRAP">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Ferrous waste and scrap are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">77</data>
+      <data key="d7">65892466045e421b9ed5627b4c6b0b99</data>
+    </node>
+    <node id="PROJECT IMPORTS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Project imports registered till 30 September 2022 are listed in the tariff duty rates</data>
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">78</data>
+      <data key="d7">5880e07a2b0a4db99cba57d2a8828f5e</data>
+    </node>
+    <node id="METHYL ALCOHOL">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">79</data>
+      <data key="d7">83f5a645c79240cf8bf4280a408c3b5b</data>
+    </node>
+    <node id="SERVICES LLP">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Services LLP is an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">80</data>
+      <data key="d7">64fbf4e517b24cba91f6516651c43256</data>
+    </node>
+    <node id="TAX">
+      <data key="d0">EVENT</data>
+      <data key="d1">Tax changes and policies are a significant part of the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">81</data>
+      <data key="d7">e273b016447946b497895759c03d6271</data>
+    </node>
+    <node id="FUEL OIL">
+      <data key="d0">EVENT</data>
+      <data key="d1">Fuel Oil is subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">82</data>
+      <data key="d7">665941c4cae84dc38891bd1e6ab12a0b</data>
+    </node>
+    <node id="RECOVERED PAPER">
+      <data key="d0">EVENT</data>
+      <data key="d1">Recovered (waste and scrap) paper or paperboard for use in manufacturing of paper, paperboard or newsprint is subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">83</data>
+      <data key="d7">7dbbcdde098a414ba2321770b47beddd</data>
+    </node>
+    <node id="SIMPLY SAWN NATURAL DIAMONDS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Simply Sawn Natural Diamonds imported under Kimberley Process Certification Scheme (KPCS) are subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">84</data>
+      <data key="d7">b5e2fb4e84774cb48ccb4073e04b0052</data>
+    </node>
+    <node id="CUT AND POLISHED DIAMONDS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Cut and Polished Diamonds are subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">85</data>
+      <data key="d7">89ad39973d644f1ca6174e616aab3326</data>
+    </node>
+    <node id="CUT AND POLISHED NATURAL GEMSTONES">
+      <data key="d0">EVENT</data>
+      <data key="d1">Cut and Polished Natural Gemstones are subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">86</data>
+      <data key="d7">4ac77e1c14744eeca3aef63466a4153d</data>
+    </node>
+    <node id="IRON AND STEEL SCRAP">
+      <data key="d0">EVENT</data>
+      <data key="d1">Iron and steel scrap, including stainless steel scrap, is subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">87</data>
+      <data key="d7">408144fee63e4143b4666857bdec4019</data>
+    </node>
+    <node id="CAMERA LENS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Camera lens for use in manufacture of Camera Module for Cellular Mobile Phone is subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">88</data>
+      <data key="d7">2716836c073f4fa0aa63fd069ba73ae0</data>
+    </node>
+    <node id="COPPER CLAD LAMINATE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Copper/Aluminium based Copper clad laminate for use in manufacture of PCB/MCPCB is subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">89</data>
+      <data key="d7">57604e12412a49af8a1b455a06b02fcd</data>
+    </node>
+    <node id="SPECIFIED PARTS FOR TRANSFORMERS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Specified parts for use in manufacture of transformers of chargers/adapters are subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">90</data>
+      <data key="d7">30db7fba6a254d6194f051d41b3714ad</data>
+    </node>
+    <node id="X-RAY ITEMS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Following items used in manufacture of X-ray items: a) X-Ray grid b) Multi Leaf Collimator/ Iris c) Static User Interface are subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">91</data>
+      <data key="d7">30d382b9b6d34759b35e21aed9c7eca1</data>
+    </node>
+    <node id="X-RAY MACHINES">
+      <data key="d0">EVENT</data>
+      <data key="d1">X-Ray Machines are subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">92</data>
+      <data key="d7">3277d07aab6f4b9c9472dc2a47b484ae</data>
+    </node>
+    <node id="PARTS OF ELECTRONIC TOYS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Parts of electronic toys for manufacture of electronic Toys are subject to changes in effective customs duty as outlined in the India Union Budget 2022-23</data>
+      <data key="d2">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">93</data>
+      <data key="d7">978619a97d2941a599b5d5d7304bcab0</data>
+    </node>
+    <node id="EFFECTIVE CUSTOMS DUTY">
+      <data key="d0">EVENT</data>
+      <data key="d1">Key changes in effective customs duty are outlined in the India Union Budget 2022-23, effective from 2 February 2022</data>
+      <data key="d2">8e91df1b3e1efdc2df4557d976b24af5</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">94</data>
+      <data key="d7">56757c71a0f340a3bfcc3a48ba700054</data>
+    </node>
+    <node id="PHASED MANUFACTURING PROGRAM">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Phased Manufacturing Program includes key changes in effective duty rates for specific electronic goods as outlined in the India Union Budget 2022-23.</data>
+      <data key="d2">2abb040221acc57e448e53bafa2f319a,8e91df1b3e1efdc2df4557d976b24af5</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">95</data>
+      <data key="d7">787f440ad972455ab17df6ccee0ddf4a</data>
+    </node>
+    <node id="PRODUCTION LINKED INCENTIVE">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Production Linked Incentive involves an additional allocation of INR 19,500 Cr. for the manufacture of high efficiency modules</data>
+      <data key="d2">2abb040221acc57e448e53bafa2f319a</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">96</data>
+      <data key="d7">e18af1ee050743059ea8ba40434ad723</data>
+    </node>
+    <node id="SEZ REFORMS">
+      <data key="d0">EVENT</data>
+      <data key="d1">SEZ reforms include the replacement of the SEZ Act, changes in Customs administration of SEZ, introduction of risk-based intervention, and usage of a common EDI platform</data>
+      <data key="d2">2abb040221acc57e448e53bafa2f319a</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">97</data>
+      <data key="d7">565dc6bc83a94d0abe0da34385838732</data>
+    </node>
+    <node id="RAJEEV DIMRI">
+      <data key="d0">PERSON</data>
+      <data key="d1">Rajeev Dimri is the National Head of Tax at KPMG in India</data>
+      <data key="d2">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">98</data>
+      <data key="d7">2550fb5f3c734bf6aba3f33f887d84e3</data>
+    </node>
+    <node id="BUREAU OF INDIAN STANDARDS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Bureau of Indian Standards is the national standards body of India, responsible for the development and maintenance of standards</data>
+      <data key="d2">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">99</data>
+      <data key="d7">7b9cb20217f7478b91667f6572b2521c</data>
+    </node>
+    <node id="APOLLO MILLS COMPOUND">
+      <data key="d0">GEO</data>
+      <data key="d1">Apollo Mills Compound is the location of KPMG Assurance and Consulting Services LLP in Mumbai, India</data>
+      <data key="d2">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">100</data>
+      <data key="d7">dce7761c00fc4b1d991de8e4278de8e9</data>
+    </node>
+    <node id="MUMBAI">
+      <data key="d0">GEO</data>
+      <data key="d1">Mumbai is a major city in India where KPMG Assurance and Consulting Services LLP is located</data>
+      <data key="d2">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">101</data>
+      <data key="d7">ac5380b290c24ac4ba3f2d08a4549590</data>
+    </node>
+    <node id="CENTRAL EXCISE">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">102</data>
+      <data key="d7">ce28943ce4fe4cc898f495dd70b41199</data>
+    </node>
+    <node id="KPMG GLOBAL ORGANIZATION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The KPMG global organization is a network of independent member firms that use the KPMG name and logo under license</data>
+      <data key="d2">eb25e4b7610b85ca1acf9e9f63dfa43a</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">103</data>
+      <data key="d7">1820498451994068bb3b94c4fc565641</data>
+    </node>
+    <edge source="KPMG" target="INDIA UNION BUDGET 2022-23">
+      <data key="d8">1.0</data>
+      <data key="d9">KPMG provides analysis and insights on the India Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">cf76d8d7173042e1b8c5810b6f03b0d3</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="KPMG" target="KPMG ASSURANCE AND CONSULTING SERVICES LLP">
+      <data key="d8">8.0</data>
+      <data key="d9">KPMG Assurance and Consulting Services LLP is a member firm of the KPMG global organization</data>
+      <data key="d10">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d11">b65fd8f7c9e74cb2bf386e0653ce1148</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="KPMG" target="KPMG INTERNATIONAL LIMITED">
+      <data key="d8">27.0</data>
+      <data key="d9">KPMG is a member firm of the KPMG global organization and is affiliated with KPMG International Limited. KPMG International Limited is affiliated with KPMG, highlighting their interconnected relationship within the global network.</data>
+      <data key="d10">0316c100c16aa4d57e15b9e4fa09444a,a7f9119f5ac69a2139759b07351bd766,cc48e6353ac5108fa6007c7df4ffd0ac,eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d11">ba73a52ef1d549c2bfb599a2535f8ad3</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="KPMG" target="SERVICES LLP">
+      <data key="d8">8.0</data>
+      <data key="d9">Services LLP is a member firm of the KPMG global organization</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">8cca53fa64074d95a4d8fba2df240182</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="KPMG" target="RAJEEV DIMRI">
+      <data key="d8">8.0</data>
+      <data key="d9">Rajeev Dimri is the National Head of Tax at KPMG in India</data>
+      <data key="d10">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d11">d2aba51527af4f8da421e59c0b5a13f0</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="KPMG" target="APOLLO MILLS COMPOUND">
+      <data key="d8">7.0</data>
+      <data key="d9">Apollo Mills Compound is the location of KPMG Assurance and Consulting Services LLP</data>
+      <data key="d10">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d11">abe395bbd8624198bebf0564becae704</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="KPMG" target="KPMG GLOBAL ORGANIZATION">
+      <data key="d8">1.0</data>
+      <data key="d9">KPMG is a member firm of the KPMG global organization</data>
+      <data key="d10">eb25e4b7610b85ca1acf9e9f63dfa43a</data>
+      <data key="d11">bf3e915e3df54f64bc2f73c5da9ac45f</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="NIRMALA SITHARAMAN">
+      <data key="d8">9.0</data>
+      <data key="d9">Nirmala Sitharaman presented the India Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">74dd6ef1530b401dad5f78cc62dfc0bd</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="INDIA">
+      <data key="d8">59.0</data>
+      <data key="d9">The India Union Budget 2022-23 is a significant event for the country of India, particularly for its economy. This budget plan outlines the economic and fiscal policies, including tax and customs duty changes, that are applicable to India. It plays a crucial role in shaping the economic landscape of the nation.</data>
+      <data key="d10">0316c100c16aa4d57e15b9e4fa09444a,18ce30b13dbaf5320cf649866f91ed54,2abb040221acc57e448e53bafa2f319a,7e835c9b975fe216a56a9dd472d9e093,8e91df1b3e1efdc2df4557d976b24af5,a7f9119f5ac69a2139759b07351bd766,a8a0d92cabc92524a783dd2c7dd35d16,b06e992294d2f5ec93702a48b2ab8fa8,cc48e6353ac5108fa6007c7df4ffd0ac,cf9c29a8e8bc1c7900f71fd713f95892,eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d11">f7a0711cd0fd45b2b2c3a4736e6da7c6</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="GROSS DOMESTIC PRODUCT (GDP)">
+      <data key="d8">8.0</data>
+      <data key="d9">The GDP growth rate of 9.2 percent was a significant backdrop for the Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">7f89beb6058645c08ea600c1c02c16e3</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="COVID-19">
+      <data key="d8">14.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes several provisions influenced by the COVID-19 pandemic. These provisions encompass tax concessions and relief measures aimed at mitigating the financial impact of the pandemic. Specifically, the budget includes tax exemptions for medical treatment and payments related to deaths caused by COVID-19, reflecting the government's efforts to provide financial relief to those affected by the pandemic.</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8,cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d11">870996ffabfa4260a8c37cf02efff3ef</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="SPECIAL ECONOMIC ZONE (SEZ) LAW">
+      <data key="d8">6.0</data>
+      <data key="d9">The replacement of the SEZ law was one of the policy announcements in the Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">690fbf27c9ea46d6a9d5b97a60ec2525</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="GLOBAL BASE EROSION AND PROFIT SHIFTING (BEPS) 2.0">
+      <data key="d8">5.0</data>
+      <data key="d9">The BEPS 2.0 proposals were not addressed in the Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">96ba1a50ba12489c8951e1ad5e684498</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="INTERNATIONAL FINANCIAL SERVICES CENTRE (IFSC)">
+      <data key="d8">7.0</data>
+      <data key="d9">The IFSC units received expanded incentives in the Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">4cd3b662c2c84ef78a46b46c00d61dfd</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="ASSOCIATIONS OF PERSONS (AOP)">
+      <data key="d8">6.0</data>
+      <data key="d9">The Union Budget 2022-23 proposed rationalization of the rates of surcharge applicable to AOP</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">5ad1ec7149e14866af81680bc7f0d529</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="FINANCE BILL">
+      <data key="d8">7.0</data>
+      <data key="d9">The Finance Bill covers a wide range of issues including taxation of crypto assets and extensions for tax holidays</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">eb84104b691e4f6487a62b08e721d46f</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="TAX DEDUCTED AT SOURCE (TDS)">
+      <data key="d8">6.0</data>
+      <data key="d9">The ambit of TDS provisions was expanded and tightened in the Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">e6584db510b44084ac1902c38f484245</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="TAX COLLECTED AT SOURCE (TCS)">
+      <data key="d8">6.0</data>
+      <data key="d9">The ambit of TCS provisions was expanded and tightened in the Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">c7bca05d9d414e939c37c87a711a459a</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="VIRTUAL DIGITAL ASSETS (VDA)">
+      <data key="d8">1.0</data>
+      <data key="d9">A regime to tax VDA was introduced in the Union Budget 2022-23</data>
+      <data key="d10">b06e992294d2f5ec93702a48b2ab8fa8</data>
+      <data key="d11">03b688158b8e472e9120a166000ca42e</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="VIRTUAL DIGITAL ASSETS">
+      <data key="d8">8.0</data>
+      <data key="d9">The India Union Budget 2022-23 introduced a regime to tax virtual digital assets</data>
+      <data key="d10">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d11">0e2ce790ae2a47f29106e85d956f5904</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="START-UPS">
+      <data key="d8">7.0</data>
+      <data key="d9">The India Union Budget 2022-23 extends the date of incorporation for eligible start-ups to claim tax holiday</data>
+      <data key="d10">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d11">bddf040bff6d4e21a5ef744889394e9a</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="ECONOMY OF THE RESURGENT INDIA">
+      <data key="d8">46.0</data>
+      <data key="d9">The India Union Budget 2022-23 focuses on the Economy of the Resurgent India. This key focus is highlighted throughout the budget, emphasizing the importance of revitalizing and strengthening the nation's economic landscape.</data>
+      <data key="d10">0316c100c16aa4d57e15b9e4fa09444a,18ce30b13dbaf5320cf649866f91ed54,7e835c9b975fe216a56a9dd472d9e093,8e91df1b3e1efdc2df4557d976b24af5,a7f9119f5ac69a2139759b07351bd766,cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">114026c5fbdc4ce788a6e9ea1a311c87</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="PUBLIC SECTOR COMPANIES">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes provisions for public sector companies</data>
+      <data key="d10">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d11">7f6e2660fd4f4c1fadd3c113621a1a0e</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="TDS">
+      <data key="d8">1.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes provisions related to Tax Deducted at Source (TDS)</data>
+      <data key="d10">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d11">948be276159d4186b565c12b19f2fb24</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="CUSTOMS TARIFF ACT, 1975">
+      <data key="d8">1.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes key changes in tariff and duty rates as per the Customs Tariff Act, 1975</data>
+      <data key="d10">0316c100c16aa4d57e15b9e4fa09444a</data>
+      <data key="d11">1c9efae226a54c29b77c13a46b446547</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="GEMS AND JEWELLERY SECTOR">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes changes in tariff duty rates affecting the Gems and Jewellery Sector</data>
+      <data key="d10">0316c100c16aa4d57e15b9e4fa09444a</data>
+      <data key="d11">64ff9534540940a890b580ce01eb01c9</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="ELECTRICAL AND ELECTRONIC SECTOR">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes changes in tariff duty rates affecting the Electrical and Electronic Sector</data>
+      <data key="d10">0316c100c16aa4d57e15b9e4fa09444a</data>
+      <data key="d11">df081388d8a1491da7d2c444de26378f</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="SOLAR ENERGY SECTOR">
+      <data key="d8">1.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes changes in tariff duty rates affecting the Solar Energy Sector</data>
+      <data key="d10">0316c100c16aa4d57e15b9e4fa09444a</data>
+      <data key="d11">dcfeb7f6bd6e40d387757508af32ef92</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="METHYL ALCOHOL">
+      <data key="d8">7.0</data>
+      <data key="d9">Methyl alcohol is listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">91ca32fc0e414089824cc4e1b6aff113</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="ACETIC ACID">
+      <data key="d8">7.0</data>
+      <data key="d9">Acetic acid is listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">05e12e90290348b3a71daccc1ffce17c</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="PILE FABRICS">
+      <data key="d8">7.0</data>
+      <data key="d9">Pile fabrics are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">047e783c1b154c70814f8e1fd8a1ceda</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="MEN'S OR BOYS' OVERCOATS">
+      <data key="d8">7.0</data>
+      <data key="d9">Men's or boys' overcoats are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">fd77ae48018c497d9f56b98c9d5f7d64</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="MEN'S SUITS">
+      <data key="d8">7.0</data>
+      <data key="d9">Men's suits are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">dc660598dd3949cd8aaca6fa0358407f</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="WOMEN'S SUITS">
+      <data key="d8">7.0</data>
+      <data key="d9">Women's suits are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">8ad6f1aa03f44affbbedd1d6946d8eb1</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="WOMEN'S TROUSERS">
+      <data key="d8">7.0</data>
+      <data key="d9">Women's trousers are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">864ce7610b284c2b86e41e0dc6e53b74</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="MEN'S OR BOYS' OVERCOATS OF MAN-MADE FIBERS">
+      <data key="d8">7.0</data>
+      <data key="d9">Men's or boys' overcoats of man-made fibers are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">4c24c4cd606a4adf9c3d7c728ba3622a</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="WOMEN'S OR GIRLS' OVERCOATS">
+      <data key="d8">7.0</data>
+      <data key="d9">Women's or girls' overcoats are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">760cf08a29c14959bd0e26989e0cd726</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="MEN'S SUITS OF WOOL">
+      <data key="d8">7.0</data>
+      <data key="d9">Men's suits of wool are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">7ec5020fe31f4e44bf3b420d66b3c784</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="MEN'S SUITS OF SYNTHETIC FIBERS">
+      <data key="d8">7.0</data>
+      <data key="d9">Men's suits of synthetic fibers are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">13c3cf03c9a34d4a81886eaf0e834adf</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="FERROUS WASTE AND SCRAP">
+      <data key="d8">7.0</data>
+      <data key="d9">Ferrous waste and scrap are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">612291576c024fce882e3e4c35287b9d</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="PROJECT IMPORTS">
+      <data key="d8">1.0</data>
+      <data key="d9">Project imports are listed in the India Union Budget 2022-23 tariff duty rates</data>
+      <data key="d10">a8a0d92cabc92524a783dd2c7dd35d16</data>
+      <data key="d11">ee107607f6fd4a1e9d3ec6c203443328</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="TAX">
+      <data key="d8">8.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes significant tax changes and policies</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">94ee2c633970437da69ce592c5ae6cd0</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="FUEL OIL">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Fuel Oil</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">1aade527871c4179a52ecd3977008627</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="RECOVERED PAPER">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Recovered Paper</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">c105d0029bd54eadb01997c47cdc6047</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="SIMPLY SAWN NATURAL DIAMONDS">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Simply Sawn Natural Diamonds</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">0b4cc4d5f97445fbaf6b8c4c1462502e</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="CUT AND POLISHED DIAMONDS">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Cut and Polished Diamonds</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">08a9c5f5205b4217b8b0cdc5f1d6aa36</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="CUT AND POLISHED NATURAL GEMSTONES">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Cut and Polished Natural Gemstones</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">bc6adfea07fb4b3ab9282e0b17069ed8</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="IRON AND STEEL SCRAP">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Iron and Steel Scrap</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">8dd6ed28d2944e40b16393af3be53281</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="CAMERA LENS">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Camera Lens</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">c7b3e94317d94fc994d0a0f4a4011ed8</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="COPPER CLAD LAMINATE">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Copper Clad Laminate</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">db9c11c1a1a44747b68f7bf1e66fec36</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="SPECIFIED PARTS FOR TRANSFORMERS">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Specified Parts for Transformers</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">7059ac5db6a64e069f455c0e64e2bab3</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="X-RAY ITEMS">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for X-Ray Items</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">4c1532099ecb4945a0b119e81957c275</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="X-RAY MACHINES">
+      <data key="d8">6.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for X-Ray Machines</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">abec0689743f4bc188d4b001621d42dd</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="PARTS OF ELECTRONIC TOYS">
+      <data key="d8">1.0</data>
+      <data key="d9">The India Union Budget 2022-23 outlines changes in effective customs duty for Parts of Electronic Toys</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">527d7c6cea3249ce896bf84c183b8a3c</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="EFFECTIVE CUSTOMS DUTY">
+      <data key="d8">7.0</data>
+      <data key="d9">Key changes in effective customs duty are outlined in the India Union Budget 2022-23</data>
+      <data key="d10">8e91df1b3e1efdc2df4557d976b24af5</data>
+      <data key="d11">17197e283094461cbd79ae948243c29b</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="PHASED MANUFACTURING PROGRAM">
+      <data key="d8">8.0</data>
+      <data key="d9">The India Union Budget 2022-23 includes the Phased Manufacturing Program, which is a significant component of the budget. This program encompasses key changes in effective duty rates, as outlined in the budget.</data>
+      <data key="d10">2abb040221acc57e448e53bafa2f319a,8e91df1b3e1efdc2df4557d976b24af5</data>
+      <data key="d11">7b60de25a78148d484e44ce2ae0d5e09</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="PRODUCTION LINKED INCENTIVE">
+      <data key="d8">7.0</data>
+      <data key="d9">The Production Linked Incentive is part of the India Union Budget 2022-23</data>
+      <data key="d10">2abb040221acc57e448e53bafa2f319a</data>
+      <data key="d11">b80e3cd672154ec389aabb57a0b0e81f</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="SEZ REFORMS">
+      <data key="d8">1.0</data>
+      <data key="d9">The SEZ reforms are part of the India Union Budget 2022-23</data>
+      <data key="d10">2abb040221acc57e448e53bafa2f319a</data>
+      <data key="d11">5c03aab1b5fc4dc0b6c6ceab7771a585</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="CENTRAL EXCISE">
+      <data key="d8">6.0</data>
+      <data key="d9">Central Excise is mentioned in the context of the India Union Budget 2022-23</data>
+      <data key="d10">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d11">e2db97c9961c4e2cae4c411c3ab469e7</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA UNION BUDGET 2022-23" target="BUREAU OF INDIAN STANDARDS">
+      <data key="d8">6.0</data>
+      <data key="d9">The Bureau of Indian Standards is mentioned in the context of fuel standards in the India Union Budget 2022-23</data>
+      <data key="d10">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d11">5a74ca57cd064df5918be14a0c639240</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INDIA" target="SEZ">
+      <data key="d8">7.0</data>
+      <data key="d9">SEZs are designated areas within India that have special economic regulations</data>
+      <data key="d10">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d11">996276a482914f1c81111a4c8edcaf03</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="KPMG ASSURANCE AND CONSULTING SERVICES LLP" target="KPMG INTERNATIONAL LIMITED">
+      <data key="d8">72.0</data>
+      <data key="d9">KPMG Assurance and Consulting Services LLP is a member firm of the KPMG global organization affiliated with KPMG International Limited</data>
+      <data key="d10">18ce30b13dbaf5320cf649866f91ed54,2abb040221acc57e448e53bafa2f319a,7e835c9b975fe216a56a9dd472d9e093,8e91df1b3e1efdc2df4557d976b24af5,a8a0d92cabc92524a783dd2c7dd35d16,cc48e6353ac5108fa6007c7df4ffd0ac,cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">f5ccc6c42dda4caa9df994bb007bf037</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="KPMG INTERNATIONAL LIMITED" target="SERVICES LLP">
+      <data key="d8">8.0</data>
+      <data key="d9">Services LLP is affiliated with KPMG International Limited</data>
+      <data key="d10">a7f9119f5ac69a2139759b07351bd766</data>
+      <data key="d11">c58cd79ee2c348e2ab06bda81b388ded</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="VIRTUAL DIGITAL ASSETS" target="FOREIGN EXCHANGE MANAGEMENT ACT, 1999 (FEMA)">
+      <data key="d8">6.0</data>
+      <data key="d9">The Foreign Exchange Management Act, 1999 (FEMA) excludes currencies from the definition of virtual digital assets</data>
+      <data key="d10">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d11">c8f81046c8f54c0296e7ec587e20283e</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="NPS" target="STATE GOVERNMENT">
+      <data key="d8">7.0</data>
+      <data key="d9">State government employees benefit from the increased deduction for employer's contribution to NPS</data>
+      <data key="d10">cc48e6353ac5108fa6007c7df4ffd0ac</data>
+      <data key="d11">52ad50b4f2b34b748e022089fab91ead</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="IFSC" target="AIF">
+      <data key="d8">7.0</data>
+      <data key="d9">AIFs are regulated under the IFSC Act and involved in tax-related provisions</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">498c254f90ee4ed08eea129074a2052c</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="IFSC" target="OFFSHORE BANKING UNIT">
+      <data key="d8">7.0</data>
+      <data key="d9">The Offshore Banking Unit in the IFSC is eligible for tax exemptions</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">68b3c082178a4c808ed17c5e9288a509</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INFRASTRUCTURE INVESTMENT TRUST" target="REAL ESTATE INVESTMENT TRUST">
+      <data key="d8">6.0</data>
+      <data key="d9">Both trusts are subject to bonus stripping and dividend stripping provisions</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">a3cf9ef6e9e6491b84f66dad7c0d40ce</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INCOME TAX APPELLATE TRIBUNAL" target="HIGH COURT">
+      <data key="d8">5.0</data>
+      <data key="d9">The tax department may file appeals to both the Income Tax Appellate Tribunal and the High Court</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">f32c34df767448cdad8ae01767454269</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="HIGH COURT" target="SUPREME COURT">
+      <data key="d8">5.0</data>
+      <data key="d9">The tax department may file appeals to both the High Court and the Supreme Court</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">35be9e4a281443bd8f0e217d4669fcf5</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="NATIONAL FACELESS ASSESSMENT CENTRE" target="PR. COMMISSIONER">
+      <data key="d8">6.0</data>
+      <data key="d9">The Pr. Commissioner is involved in deciding on adopting certain tax procedures coordinated through the National Faceless Assessment Centre</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">5677c539d5f741338b1b7f61f6aa4f69</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="NATIONAL FACELESS ASSESSMENT CENTRE" target="CHIEF COMMISSIONER">
+      <data key="d8">1.0</data>
+      <data key="d9">The Chief Commissioner is involved in deciding on adopting certain tax procedures coordinated through the National Faceless Assessment Centre</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">895a529096834a86810072b9a03ed654</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="NATIONAL FACELESS ASSESSMENT CENTRE" target="CHIEF COMMISSIONERS">
+      <data key="d8">6.0</data>
+      <data key="d9">Chief Commissioners are involved in deciding on adopting certain tax procedures coordinated through the National Faceless Assessment Centre</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">ab9d09650bd748f0b171b897bf689aab</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="NATIONAL FACELESS ASSESSMENT CENTRE" target="PR. COMMISSIONERS">
+      <data key="d8">1.0</data>
+      <data key="d9">Pr. Commissioners are involved in deciding on adopting certain tax procedures coordinated through the National Faceless Assessment Centre</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">951ba1292aa54d0ab450470649808d5c</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="HINDU UNDIVIDED FAMILY" target="BODY OF INDIVIDUALS">
+      <data key="d8">6.0</data>
+      <data key="d9">Both are considered as single entities for tax purposes in India</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">999555efc46942ed837f6e1477c961d7</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="ALTERNATIVE MINIMUM TAX" target="CO-OPERATIVE SOCIETIES">
+      <data key="d8">7.0</data>
+      <data key="d9">The Alternative Minimum Tax rate is applicable to co-operative societies</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">7b5b4e9d08194768bdef3531609814dd</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="MERGERS &amp; ACQUISITIONS" target="TAX DEPARTMENT">
+      <data key="d8">6.0</data>
+      <data key="d9">The tax department handles assessments and reassessments related to mergers and acquisitions</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">36d4632881614cdeb5c5ecf0b25518b3</data>
+      <data key="d12">76</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="TAX DEPARTMENT" target="ASSESSING OFFICER">
+      <data key="d8">7.0</data>
+      <data key="d9">The Assessing Officer is part of the tax department responsible for reassessment</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">2325a378d54e479a8f13e51550ad6f1d</data>
+      <data key="d12">77</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="TAX DEPARTMENT" target="AUDIT OBJECTION">
+      <data key="d8">6.0</data>
+      <data key="d9">Audit objections can lead to tax reassessment by the tax department</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">3ac94c1ebcf14f3a98aab5859eb0a127</data>
+      <data key="d12">78</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="INTERNATIONAL TAXATION MATTERS" target="TREATY NETWORK">
+      <data key="d8">6.0</data>
+      <data key="d9">The treaty network provides information for international taxation matters</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">0ed90533d88a49f6b324aca2d9b050e0</data>
+      <data key="d12">79</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="FACILESS ASSESSMENT SCHEME" target="VIDEO CONFERENCING">
+      <data key="d8">7.0</data>
+      <data key="d9">Video conferencing is allowed for personal hearings under the Faceless Assessment Scheme</data>
+      <data key="d10">cf9c29a8e8bc1c7900f71fd713f95892</data>
+      <data key="d11">246022770b064d779853e7e715192e9c</data>
+      <data key="d12">80</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CIT(A)" target="AO">
+      <data key="d8">6.0</data>
+      <data key="d9">The Commissioner of Income-tax (Appeal) has powers to initiate penalty proceedings and the Assessing Officer is responsible for giving effect to the order of the Dispute Resolution Committee</data>
+      <data key="d10">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d11">18ff6b1a1d684641a2cdf95c44e62a9c</data>
+      <data key="d12">81</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="AO" target="DISPUTE RESOLUTION COMMITTEE">
+      <data key="d8">5.0</data>
+      <data key="d9">The Dispute Resolution Committee's orders are implemented by the Assessing Officer</data>
+      <data key="d10">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d11">d0eabc097788449fa971758a95d65544</data>
+      <data key="d12">82</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="GSTR 1" target="GSTR 3B">
+      <data key="d8">7.0</data>
+      <data key="d9">Filing of GSTR 1 for subsequent periods is allowed only when GSTR 1 for the previous tax period has been filed, and it is mandatory for filing GSTR 3B</data>
+      <data key="d10">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d11">f034636df3734f798256ab448f75af10</data>
+      <data key="d12">83</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="GSTR 1" target="INPUT TAX CREDIT">
+      <data key="d8">6.0</data>
+      <data key="d9">The availment of Input Tax Credit is linked to the filing of GSTR 1</data>
+      <data key="d10">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d11">e482d1e993824c1eba8520d9bbec1c0a</data>
+      <data key="d12">84</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="GSTR 1" target="TCS">
+      <data key="d8">5.0</data>
+      <data key="d9">The rectification or omission of TCS details is part of the GSTR 1 filing process</data>
+      <data key="d10">18ce30b13dbaf5320cf649866f91ed54</data>
+      <data key="d11">7b61484c37c24b798db13bdc45a0eb9c</data>
+      <data key="d12">85</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CENTRAL BOARD OF INDIRECT TAXES &amp; CUSTOMS (CBIC)" target="CUSTOMS ACT, 1962">
+      <data key="d8">7.0</data>
+      <data key="d9">The Central Board of Indirect Taxes &amp; Customs (CBIC) is responsible for administering the Customs Act, 1962</data>
+      <data key="d10">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d11">e2bf34e917734bc38d2af9e842d671bd</data>
+      <data key="d12">86</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CENTRAL BOARD OF INDIRECT TAXES &amp; CUSTOMS (CBIC)" target="CUSTOMS TARIFF ACT, 1975">
+      <data key="d8">1.0</data>
+      <data key="d9">The Central Board of Indirect Taxes &amp; Customs (CBIC) is responsible for administering the Customs Tariff Act, 1975</data>
+      <data key="d10">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d11">88ca500360344de2b92ecd715d3bc7b9</data>
+      <data key="d12">87</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CUSTOMS ACT, 1962" target="CUSTOMS">
+      <data key="d8">7.0</data>
+      <data key="d9">The Customs Act, 1962 is administered by the Customs authority in India</data>
+      <data key="d10">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d11">c4dfe8bf896c41388680ed110b32214d</data>
+      <data key="d12">88</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CUSTOMS TARIFF ACT, 1975" target="CUSTOMS">
+      <data key="d8">7.0</data>
+      <data key="d9">The Customs Tariff Act, 1975 is administered by the Customs authority in India</data>
+      <data key="d10">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d11">601e7cefffa9477f9470d7eaac80ab5c</data>
+      <data key="d12">89</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CGST" target="IGST">
+      <data key="d8">8.0</data>
+      <data key="d9">CGST and IGST are both components of the Goods and Services Tax system in India</data>
+      <data key="d10">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d11">f80c0a6231ed4467aad8f1255438aada</data>
+      <data key="d12">90</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CUSTOMS" target="CUSTOMS (IMPORT OF GOODS AT CONCESSIONAL RATE OF DUTY) RULES, 2022">
+      <data key="d8">1.0</data>
+      <data key="d9">The Customs (Import of Goods at Concessional Rate of Duty) Rules, 2022 are regulations enforced by the Customs authority in India</data>
+      <data key="d10">7e835c9b975fe216a56a9dd472d9e093</data>
+      <data key="d11">5a96cab4c9874074baa437eb7b432224</data>
+      <data key="d12">91</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="APOLLO MILLS COMPOUND" target="MUMBAI">
+      <data key="d8">1.0</data>
+      <data key="d9">Apollo Mills Compound is located in Mumbai</data>
+      <data key="d10">eda7ecdb46ab229adb23925ec7c122cf</data>
+      <data key="d11">a18dc468756f4e29bca1628067c79b77</data>
+      <data key="d12">92</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>
